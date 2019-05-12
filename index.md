@@ -1,4 +1,4 @@
-# Actuellement 
+# Actuellement ![alt text](/emilien.png "Emilien Schultz"=250x)
 
 Je suis chercheur en sociologie, contractuel à l'Institut Gustave Roussy à Villejuif (SIRIC Socrate) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
@@ -7,7 +7,7 @@ données.
 
 Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie des innovations en cancérologie.
 
-![alt text](/emilien.png "Emilien Schultz")
+
 
 
 # Formation
