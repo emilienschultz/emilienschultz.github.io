@@ -11,6 +11,8 @@ données.
 
 Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie des innovations en cancérologie.
 
+Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
+
 # Formation
 
 * __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
