@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" src="/emilien.png">
+</p>
+
 # Actuellement 
 
 Je suis chercheur en sociologie, contractuel à l'Institut Gustave Roussy à Villejuif (SIRIC Socrate) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
@@ -6,10 +10,6 @@ Mes recherches portent sur l'__innovation médicale__, la __recherche scientifiq
 données. 
 
 Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie des innovations en cancérologie.
-
-<p align="center">
-  <img width="200" src="/emilien.png">
-</p>
 
 # Formation
 
