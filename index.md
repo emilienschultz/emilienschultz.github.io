@@ -7,8 +7,9 @@ données.
 
 Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie des innovations en cancérologie.
 
-![alt text](/emilien.png "Emilien Schultz"=100x)
-
+<p align="center">
+  <img width="200" src="/emilien.png">
+</p>
 
 # Formation
 
