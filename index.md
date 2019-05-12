@@ -58,23 +58,23 @@ Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie 
 # Publications
 
 ## Articles avec comité de lecture
-* en cours de révision avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », Espaces et Sociétés 
-* avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », Histoire de la Recherche Contemporaine, 2019
-* avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », Techniques et Culture, 2018
-* avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », European Journal of Cancer, 2018
-* avec Johan Giry, « L'ANR en ph(r)ase critique », Zilsel, 2017
-* avec Michel Dubois, « La science comme activité sociale : raisons et domaines d'étude pour la sociologie des sciences », Histoire de la Recherche Contemporaine, 2015
-* « Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », Temporalités, 2013
+* *en cours de révision* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », Espaces et Sociétés 
+* avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019
+* avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018
+* avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », *European Journal of Cancer*, 2018
+* avec Johan Giry, « L'ANR en ph(r)ase critique », *Zilsel*, 2017
+* avec Michel Dubois, « La science comme activité sociale : raisons et domaines d'étude pour la sociologie des sciences », *Histoire de la Recherche Contemporaine*, 2015
+* « Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », *Temporalités*, 2013
 
 ## Chapitres de livre
-* avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », Les politiques de lutte contre le cancer en France, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
-* «Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans Faire et dire l'évaluation Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
-* « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans Le gouvernement des disciplines académiques, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
+* avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
+* «Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
+* « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
 
 ## Compte-rendus de lecture
-* « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », Zilsel, 2018
-* Whitley (Richard), Gläser (Jochen) (eds.), Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations), Vol. 42, 2014, 406 p., $ 133. dans Revue française de sociologie 2016/3 (Vol. 57) 
-* « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de B. Zarca, Revue Française de Sociologie, 2014-2
+* « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
+* Whitley (Richard), Gläser (Jochen) (eds.), Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations), *Revue française de sociologie* 2016
+* « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de B. Zarca, *Revue Française de Sociologie*, 2014-2
 
 ## Autres publications
 * Abstract avec Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? », Revue d’épidémiologie et de santé publique, 2019.
