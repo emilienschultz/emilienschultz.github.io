@@ -2,10 +2,13 @@
 
 Je suis chercheur en sociologie, contractuel à l'Institut Gustave Roussy à Villejuif (SIRIC Socrate) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
-Mes recherches portent sur l'innovation médicale, la recherche scientifique et clinique et les méthodes d'analyse quantitatives des
+Mes recherches portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyse__ quantitatives des
 données. 
 
 Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie des innovations en cancérologie.
+
+![alt text](/emilien.png "Emilien Schultz")
+
 
 # Formation
 
@@ -39,7 +42,7 @@ Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie 
 ## En cours
 * Encadrement d'une thèse (financement SIRIC BRIO à Bordeaux, en collaboration avec Pascal Ragouet)
 * Encadrement de stagiaire
-* Co-direction du projet Egalican 3 Roméa avec Sylvain Besle (financement Ligue contre le cancer)
+* Participation au projet Egalican 3 Roméa avec Sylvain Besle (financement Ligue contre le cancer)
 * Co-direction du projet ACCE avec Sylvain Besle (financement Imagine for Margo)
 * Membre du bureau du RT29 Sciences et Technologies en Société de l’Association Française de Sociologie
 * Comité de rédaction de la revue Zilsel
@@ -71,7 +74,6 @@ Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie 
 * « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », Zilsel, 2018
 * Whitley (Richard), Gläser (Jochen) (eds.), Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations), Vol. 42, 2014, 406 p., $ 133. dans Revue française de sociologie 2016/3 (Vol. 57) 
 * « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de B. Zarca, Revue Française de Sociologie, 2014-2
-
 
 ## Autres publications
 * Abstract avec Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? », Revue d’épidémiologie et de santé publique, 2019.
