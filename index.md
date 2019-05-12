@@ -13,7 +13,7 @@ Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie 
 
 # Formation
 
-* __2011-2016__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
+* __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
 >  Construire une économie de la recherche sur projets. L'installation de l’Agence Nationale de la Recherche en France et ses conséquences dans les domaines de la génomique végétale et de la chimie durable [Position de thèse]
 * __2011__ : Master Logique Philosophie Histoire et Sociologie des Sciences (LOPHISS) à Paris VII
 * __2011-2007__ : Formation en physique appliquée à l'ENS de Cachan (EEA)
