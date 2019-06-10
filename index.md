@@ -22,6 +22,11 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
     * 2011 : Diplôme de l'ENS de Cachan
     * 2010 : Agrégation de physique appliquée - préparation à l'ENS de Cachan
 * Classes préparatoire en physique et science de l'ingénieur à Strasbourg
+
+## Formations suivies:
+* __2019__ : Semaine de formation Géostat Santé (Géographie/Géométrie/Géostatistique de la santé)
+* __2015__ : Formation avancées à l'analyse de réseaux - SciencesPo Paris / CSO
+* __2013__ : Ecole thématique sur la Modélisation Multi-agents (MAPS5)
     
 # Postes antérieures
 
