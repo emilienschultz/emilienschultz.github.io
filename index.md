@@ -4,7 +4,7 @@
 
 # Actuellement 
 
-Je suis chercheur en sociologie, contractuel à l'Institut Gustave Roussy à Villejuif (SIRIC Socrate) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+Je suis chercheur en sociologie, sous contrat à l'Institut Gustave Roussy à Villejuif (SIRIC Socrate) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
 Mes recherches portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyse__ quantitatives des
 données. 
@@ -36,7 +36,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * __2014-2011__ : Contract doctoral Université Paris Sorbonne
 
 # Enseignements
-* __2019__ : Organisation de séminaire sur la programmation en langage Python pour l'analyse des données en SHS
+* __2019__ : Organisation de séminaires sur la programmation en langage Python pour l'analyse des données en SHS
 * __2017__ : Encadrement d'analyse scientométrique en cartographie des controverses (SciencesPo Paris)
 * __2014-2016__ : ATER (demi service) à Paris Sorbonne : Statistiques, Sociologie des sciences, Culture générale
 * __2011-2014__ : Mission d'enseignement : Statistiques (L1) et Sociologie des sciences (L3)
@@ -49,14 +49,14 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
 ## En cours
 * Encadrement d'une thèse (financement SIRIC BRIO à Bordeaux, en collaboration avec Pascal Ragouet)
-* Encadrement de stagiaire
+* Encadrement de stagiaires
 * Participation au projet Egalican 3 Roméa avec Sylvain Besle (financement Ligue contre le cancer)
 * Co-direction du projet ACCE avec Sylvain Besle (financement Imagine for Margo)
 * Membre du bureau du RT29 Sciences et Technologies en Société de l’Association Française de Sociologie
 * Comité de rédaction de la revue Zilsel
 
 ## Passées
-* Coordination d'un numéro spécial avec Michel Duboisde la Revue d'Histoire de la Recherche Contemporaine sur l'OPECST, 2019
+* Coordination d'un numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'OPECST, 2019
 * Coordination d’une journée d’étude avec Solenn Carof sur « Mobilisation associatives et cancers pédiatriques », décembre 2018
 * Visiting scholar au Berkeley Institut for Data Science, 2015
 * participation au projet interdisciplinaire PALIM (Patrimoines Alimentaires) financé par Sorbonne Université 2015
@@ -65,7 +65,8 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 # Publications
 
 ## Articles avec comité de lecture
-* *en cours de révision* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », Espaces et Sociétés 
+* *(à paraître fin 2019)* avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*
+* *(à paraître fin 2019)* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés* 
 * avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019
 * avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018
 * avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », *European Journal of Cancer*, 2018
@@ -79,6 +80,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
 
 ## Compte-rendus de lecture
+* (à paraître) « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », Zilsel
 * « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
 * Whitley (Richard), Gläser (Jochen) (eds.), Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations), *Revue française de sociologie* 2016
 * « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de B. Zarca, *Revue Française de Sociologie*, 2014-2
@@ -88,6 +90,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * Note de carnet, « Mesurer la performance de la recherche. Tout un programme.», Carnet Zilsel, 2014
 
 ## Sélection de communications
+* avec Johan Giry, « Méprise sur le sens de l’autonomie scientifique : l’Agence Nationale de la Recherche sous le gouvernement socialiste (2012-2017) », ST36 de l'Association Française de Science Politique, Bordeaux, 2019
 * avec Sylvain Besle, Solenn Carof et Celine Gabarro, « La diversité des formes de coopération entre les associations de parents et le monde médical dans le domaine du cancer », Journées RT1-19, Nanterre, 2019
 * « Comment le Parlement se saisit de la Science : l’OPECST », séminaire Actualité de Jean-Jacques Salomon, CNAM, Paris,  2019
 * « l'accès aux essais précoces en France », journée d’étude Les innovations médicales et leurs effets au Centre Emile Durkheim, Bordeaux, 2018
