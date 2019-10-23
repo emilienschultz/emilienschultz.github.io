@@ -13,6 +13,54 @@ Je coordonne actuellement avec Sylvain Besle le groupe SINCRO sur la sociologie 
 
 Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
+# Publications
+
+## Articles avec comité de lecture
+* *(à paraître fin 2019)* avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*
+* *(à paraître fin 2019)* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés* 
+* [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
+* avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018
+* avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », *European Journal of Cancer*, 2018
+* avec Johan Giry, « L'ANR en ph(r)ase critique », *Zilsel*, 2017
+* avec Michel Dubois, « La science comme activité sociale : raisons et domaines d'étude pour la sociologie des sciences », *Histoire de la Recherche Contemporaine*, 2015
+* « Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », *Temporalités*, 2013
+
+## Chapitres de livre
+* avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
+* «Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
+* « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
+
+## Compte-rendus de lecture
+* (à paraître) « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », Zilsel
+* « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
+* Whitley (Richard), Gläser (Jochen) (eds.), Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations), *Revue française de sociologie* 2016
+* « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de B. Zarca, *Revue Française de Sociologie*, 2014-2
+
+## Posters récents
+
+* avec Capucine Baldini, Sylvain Besle et al., « Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study », International Society of Geriatric Oncology, Genève, 2019
+
+## Autres publications
+* Abstract avec Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? », Revue d’épidémiologie et de santé publique, 2019.
+* Note de carnet, « Mesurer la performance de la recherche. Tout un programme.», Carnet Zilsel, 2014
+
+# Sélection de communications
+
+* avec Julien Mancini et al. « Brief information about clinical trials in different formats increase the willingness to consider participation among the economically disadvantaged », International Conference on Communication in Healthcare, San Diego, 2019
+* avec Johan Giry, « Méprise sur le sens de l’autonomie scientifique : l’Agence Nationale de la Recherche sous le gouvernement socialiste (2012-2017) », ST36 de l'Association Française de Science Politique, Bordeaux, 2019
+* avec Sylvain Besle, Solenn Carof et Celine Gabarro, « La diversité des formes de coopération entre les associations de parents et le monde médical dans le domaine du cancer », Journées RT1-19, Nanterre, 2019
+* « Comment le Parlement se saisit de la Science : l’OPECST », séminaire Actualité de Jean-Jacques Salomon, CNAM, Paris,  2019
+* « l'accès aux essais précoces en France », journée d’étude Les innovations médicales et leurs effets au Centre Emile Durkheim, Bordeaux, 2018
+* « Entre implémentation et créolisation. Le recours à la technique de l’insecte stérile aux moustiques à la Réunion », séminaire du SESSTIM, Marseille, 2018
+* « Presentation of ACCE project », SIOPE/ITCC face-to-face Working Group meeting on Access to innovative therapies within clinical trials, Bruxelles, 2017
+* avec Nicolas Benvengu, « L’approche des controverses par les STS est-elle hégémonique ? Sociologie d’un "concept" », Congrès de l'Association Française de Sociologie, Amiens, 2017
+* avec Nicolas Benvengu, « La “caméralisation” de l’analyse des controverses. Comment l’Office parlementaire d’évaluation des choix scientifiques et techniques (OPECST) traite t-il le dissensus scientifique ? », Congrès de l'Association Française de Science Politique, Montpellier, 2017
+* avec Sylvain Besle, « Intégrer le processus d’innovation aux trajectoires de soin : La labellisation CLIP² de l’INCa en France et la structuration des essais précoces en France », Journée d'étude « Action publique et cancers : Politique des soins, régulation, prévention », Sciencespo, Paris, 2017
+* « Comment les chercheurs s’arrangent avec l’ANR ? », AISLF, Montréal, 2015
+* « La carrière de l’Agence Nationale de la Recherche : 2005-2015 », séminaire du Printemps, Versailles, 2015
+* « From funding to research communities : characterization of the matching between instruments of governance and research actors in the case of two scientific programs at the French national funding agency, Agence Nationale de la Recherche », workshop Research Funding and Dynamics of Science, ESA Research Network 24 (SSTNET), 2014
+
+
 # Formation
 
 * __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
@@ -48,6 +96,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 # Activités scientifiques
 
 ## En cours
+* Organisation de séminaire de formation la programmation Python pour les SHS
 * Encadrement d'une thèse (financement SIRIC BRIO à Bordeaux, en collaboration avec Pascal Ragouet)
 * Encadrement de stagiaires
 * Participation au projet Egalican 3 Roméa avec Sylvain Besle (financement Ligue contre le cancer)
@@ -56,50 +105,12 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * Comité de rédaction de la revue Zilsel
 
 ## Passées
-* Coordination d'un numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'OPECST, 2019
+* [Coordination d'un numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'OPECST, 2019](https://journals.openedition.org/hrc/3078)
 * Coordination d’une journée d’étude avec Solenn Carof sur « Mobilisation associatives et cancers pédiatriques », décembre 2018
 * Visiting scholar au Berkeley Institut for Data Science, 2015
 * participation au projet interdisciplinaire PALIM (Patrimoines Alimentaires) financé par Sorbonne Université 2015
 * Réalisation d’une étude d’impact pour l’ANR, 2013-2014
 
-# Publications
-
-## Articles avec comité de lecture
-* *(à paraître fin 2019)* avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*
-* *(à paraître fin 2019)* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés* 
-* avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019
-* avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018
-* avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », *European Journal of Cancer*, 2018
-* avec Johan Giry, « L'ANR en ph(r)ase critique », *Zilsel*, 2017
-* avec Michel Dubois, « La science comme activité sociale : raisons et domaines d'étude pour la sociologie des sciences », *Histoire de la Recherche Contemporaine*, 2015
-* « Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », *Temporalités*, 2013
-
-## Chapitres de livre
-* avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
-* «Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
-* « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
-
-## Compte-rendus de lecture
-* (à paraître) « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », Zilsel
-* « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
-* Whitley (Richard), Gläser (Jochen) (eds.), Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations), *Revue française de sociologie* 2016
-* « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de B. Zarca, *Revue Française de Sociologie*, 2014-2
-
-## Autres publications
-* Abstract avec Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? », Revue d’épidémiologie et de santé publique, 2019.
-* Note de carnet, « Mesurer la performance de la recherche. Tout un programme.», Carnet Zilsel, 2014
-
-## Sélection de communications
-* avec Johan Giry, « Méprise sur le sens de l’autonomie scientifique : l’Agence Nationale de la Recherche sous le gouvernement socialiste (2012-2017) », ST36 de l'Association Française de Science Politique, Bordeaux, 2019
-* avec Sylvain Besle, Solenn Carof et Celine Gabarro, « La diversité des formes de coopération entre les associations de parents et le monde médical dans le domaine du cancer », Journées RT1-19, Nanterre, 2019
-* « Comment le Parlement se saisit de la Science : l’OPECST », séminaire Actualité de Jean-Jacques Salomon, CNAM, Paris,  2019
-* « l'accès aux essais précoces en France », journée d’étude Les innovations médicales et leurs effets au Centre Emile Durkheim, Bordeaux, 2018
-* « Entre implémentation et créolisation. Le recours à la technique de l’insecte stérile aux moustiques à la Réunion », séminaire du SESSTIM, Marseille, 2018
-* « Presentation of ACCE project », SIOPE/ITCC face-to-face Working Group meeting on Access to innovative therapies within clinical trials, Bruxelles, 2017
-* avec Nicolas Benvengu, « L’approche des controverses par les STS est-elle hégémonique ? Sociologie d’un "concept" », Congrès de l'Association Française de Sociologie, Amiens, 2017
-* avec Nicolas Benvengu, « La “caméralisation” de l’analyse des controverses. Comment l’Office parlementaire d’évaluation des choix scientifiques et techniques (OPECST) traite t-il le dissensus scientifique ? », Congrès de l'Association Française de Science Politique, Montpellier, 2017
-* avec Sylvain Besle, « Intégrer le processus d’innovation aux trajectoires de soin : La labellisation CLIP² de l’INCa en France et la structuration des essais précoces en France », Journée d'étude « Action publique et cancers : Politique des soins, régulation, prévention », Sciencespo, Paris, 2017
-* « Comment les chercheurs s’arrangent avec l’ANR ? », AISLF, Montréal, 2015
-* « La carrière de l’Agence Nationale de la Recherche : 2005-2015 », séminaire du Printemps, Versailles, 2015
-* « From funding to research communities : characterization of the matching between instruments of governance and research actors in the case of two scientific programs at the French national funding agency, Agence Nationale de la Recherche », workshop Research Funding and Dynamics of Science, ESA Research Network 24 (SSTNET), 2014
+# Interventions publiques
+* Participation à la table-ronde « Accéder à l'innovation : un plus pour nous soigner ? » organisée par le SIRIC Brio, Bordeaux, 2019
 
