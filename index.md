@@ -6,7 +6,7 @@
 
 Je suis chercheur en sociologie à l'Institut Gustave Roussy à Villejuif (financement SIRIC Socrate), associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
-Mes recherches portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyse__ quantitatives des
+Mes recherches portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyses__ quantitatives des
 données. 
 
 Je participe actuellement avec Sylvain Besle au groupe SINCRO sur la sociologie des innovations en cancérologie, et plus particulièrement sur le traitement massif de données en recherche translationnelle.
@@ -35,15 +35,16 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
 
 ## Compte-rendus de lecture
-* *(à paraître)* Philippe Brunet, *De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France*, *Revue française de sociologie*
+* *(à paraître)*, *De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France* de Philippe Brunet, *Revue française de sociologie*
 * « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », *Zilsel*, 2019
 * « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
-* Richard Whitley et Jochen Gläser (eds.), *Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations)*, *Revue française de sociologie*, 2016
-* « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de B. Zarca, *Revue Française de Sociologie*, 2014-2
+* *Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations)*, Richard Whitley et Jochen Gläser (eds.), *Revue française de sociologie*, 2016
+* « L’univers des mathématiciens : L’ethos professionnel des plus rigoureux des scientifiques » de Bernard Zarca, *Revue Française de Sociologie*, 2014-2
+* « Des patrons aux managers » de Séverine Louvel, *Revue Française de Sociologie*, 2012
 
 ## Posters récents
 
-* avec Capucine Baldini, Sylvain Besle et al., « Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study », International Society of Geriatric Oncology, Genève, 2019
+* avec Capucine Baldini, Sylvain Besle et al., « Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study », *International Society of Geriatric Oncology*, Genève, 2019
 
 ## Autres publications
 * Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? » (abstract), *Revue d’épidémiologie et de santé publique*, 2019.
@@ -59,7 +60,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * « l'accès aux essais précoces en France », *Journée d’étude Les innovations médicales et leurs effets au Centre Emile Durkheim*, Bordeaux, 2018
 * « Entre implémentation et créolisation. Le recours à la technique de l’insecte stérile aux moustiques à la Réunion », *Séminaire du SESSTIM*, Marseille, 2018
 * « Presentation of ACCE project », *SIOPE/ITCC face-to-face Working Group meeting on Access to innovative therapies within clinical trials*, Bruxelles, 2017
-* avec Nicolas Benvengu, « L’approche des controverses par les STS est-elle hégémonique ? Sociologie d’un "concept" », *Congrès de l'Association Française de Sociologie*, Amiens, 2017
+* avec Nicolas Benvegnu, « L’approche des controverses par les STS est-elle hégémonique ? Sociologie d’un "concept" », *Congrès de l'Association Française de Sociologie*, Amiens, 2017
 * avec Nicolas Benvengu, « La “caméralisation” de l’analyse des controverses. Comment l’Office parlementaire d’évaluation des choix scientifiques et techniques (OPECST) traite t-il le dissensus scientifique ? », *Congrès de l'Association Française de Science Politique*, Montpellier, 2017
 * avec Sylvain Besle, « Intégrer le processus d’innovation aux trajectoires de soin : La labellisation CLIP² de l’INCa en France et la structuration des essais précoces en France », *Journée d'étude « Action publique et cancers : Politique des soins, régulation, prévention »*, Sciencespo, Paris, 2017
 * « Comment les chercheurs s’arrangent avec l’ANR ? », *Congrès de l'AISLF*, Montréal, 2015
