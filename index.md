@@ -6,17 +6,16 @@
 
 Je suis chercheur en sociologie à l'Institut Gustave Roussy à Villejuif (financement SIRIC Socrate), associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
-Mes recherches portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyses__ quantitatives des
-données. 
+Mes recherches menées en collaboration et dans un contexte interdisciplinaire portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyses__ quantitatives des données. 
 
-Je participe actuellement avec Sylvain Besle au groupe SINCRO sur la sociologie des innovations en cancérologie, et plus particulièrement sur le traitement massif de données en recherche translationnelle.
+Je participe actuellement avec Sylvain Besle au programme SINCRO sur la sociologie des innovations en cancérologie, et je m'intéresse actuellement à l'utilisation des sciences des données et des approches orientées « intelligence artificielle » dans la recherche sur le cancer.
 
 Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
 # Publications
 
 ## Articles avec comité de lecture
-* *(à paraître fin 2019)* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés* 
+* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés* 
 * avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019
 * [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
 * avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018
@@ -31,11 +30,11 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
 ## Chapitres de livre
 * avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
-* «Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
+* « Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
 * « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
 
 ## Compte-rendus de lecture
-* *(à paraître)*, *De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France* de Philippe Brunet, *Revue française de sociologie*
+* « De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France » de Philippe Brunet, *Revue française de sociologie*
 * « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », *Zilsel*, 2019
 * « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
 * *Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations)*, Richard Whitley et Jochen Gläser (eds.), *Revue française de sociologie*, 2016
@@ -118,6 +117,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * Réalisation d’une étude d’impact pour l’ANR, 2013-2014
 
 # Interventions publiques
+* Présentation du numéro sur l'OPECST au Sénat [Trente ans d’évaluations des choix scientifiques et technologiques au Parlement](http://videos.senat.fr/video.1515492_5e39950711719.30-ans-d-evaluations-des-choix-scientifiques-et-technologiques-au-parlement)
 * Audition publique de l'OPECST [Les enjeux du conseil scientifique aux institutions politiques](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/office-parlementaire-d-evaluation-des-choix-scientifiques-et-technologiques/secretariat/a-la-une/les-enjeux-du-conseil-scientifique-aux-institutions-politiques), Assemblée Nationale, 2019
 * Participation à la table-ronde « Accéder à l'innovation : un plus pour nous soigner ? » organisée par le SIRIC Brio, Bordeaux, 2019
 
