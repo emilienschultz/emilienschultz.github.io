@@ -69,8 +69,8 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
 # Formation
 
-* __2016-2011__ : [Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
->  Construire une économie de la recherche sur projets. L'installation de l’Agence Nationale de la Recherche en France et ses conséquences dans les domaines de la génomique végétale et de la chimie durable](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/these-vf.pdf)
+* __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
+>  [Construire une économie de la recherche sur projets. L'installation de l’Agence Nationale de la Recherche en France et ses conséquences dans les domaines de la génomique végétale et de la chimie durable](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/these-vf.pdf)
 * __2011__ : Master Logique Philosophie Histoire et Sociologie des Sciences (LOPHISS) à Paris VII
 * __2011-2007__ : Formation en physique appliquée à l'ENS de Cachan (EEA)
     * 2011 : Diplôme de l'ENS de Cachan
