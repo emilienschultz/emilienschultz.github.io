@@ -14,6 +14,10 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
 # Publications
 
+## Coordination de numéros thématiques
+* *en cours de préparation* avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? »
+* [Numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques, 2019](https://journals.openedition.org/hrc/3078)
+
 ## Articles avec comité de lecture
 * avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020 
 * avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019
@@ -24,17 +28,13 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * avec Michel Dubois, « La science comme activité sociale : raisons et domaines d'étude pour la sociologie des sciences », *Histoire de la Recherche Contemporaine*, 2015
 * « Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », *Temporalités*, 2013
 
-## Coordination de numéros thématiques
-* *en cours de préparation* avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? »
-* [Numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques, 2019](https://journals.openedition.org/hrc/3078)
-
 ## Chapitres de livre
 * avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
 * « Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
 * « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
 
 ## Compte-rendus de lecture
-* « De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France » de Philippe Brunet, *Revue française de sociologie*
+* « De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France » de Philippe Brunet, *Revue française de sociologie*, 2019
 * « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », *Zilsel*, 2019
 * « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
 * *Organizational Transformation and Scientific Change : The Impact of Institutional Restructuring on Universities and Intellectual Innovation. Bingley, Emerald Books (Research in the Sociology of Organizations)*, Richard Whitley et Jochen Gläser (eds.), *Revue française de sociologie*, 2016
@@ -78,9 +78,10 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * Classes préparatoire en physique et science de l'ingénieur à Strasbourg
 
 ## Formations suivies:
-* __2019__ : Semaine de formation Géostat Santé (Géographie/Géométrie/Géostatistique de la santé)
+* __2020__ : Formation sur l'intelligence artificielle appliquée à la physique médicale (19h), SIRIC SOCRATE Gustave Roussy
+* __2019__ : Formation Géostat Santé - Géographie/Géométrie/Géostatistique de la santé (une semaine)
 * __2015__ : Formation avancées à l'analyse de réseaux - SciencesPo Paris / CSO
-* __2013__ : Ecole thématique sur la Modélisation Multi-agents (MAPS5)
+* __2013__ : Ecole thématique sur la Modélisation Multi-agents MAPS5 (une semaine)
     
 # Postes antérieures
 
@@ -102,7 +103,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 # Activités scientifiques
 
 ## En cours
-* Organisation de séminaire de formation la programmation Python pour les SHS
+* Organisation de séminaires de formation la programmation Python pour les SHS
 * Encadrement d'une thèse (financement SIRIC BRIO à Bordeaux, en collaboration avec Pascal Ragouet)
 * Participation au projet Egalican 3 Roméa avec Sylvain Besle (financement Ligue contre le cancer)
 * Co-direction du projet ACCE avec Sylvain Besle (financement Imagine for Margo)
