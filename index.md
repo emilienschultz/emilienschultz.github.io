@@ -15,7 +15,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 # Publications
 
 ## Articles avec comité de lecture
-* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés* 
+* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020 
 * avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019
 * [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
 * avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018
