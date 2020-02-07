@@ -43,7 +43,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
 ## Posters récents
 
-* avec Capucine Baldini, Sylvain Besle et al., « Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study », *International Society of Geriatric Oncology*, Genève, 2019
+* avec Capucine Baldini, Sylvain Besle et al., [« Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study »](https://www.geriatriconcology.net/article/S1879-4068(19)31300-1/fulltext), *International Society of Geriatric Oncology*, Genève, 2019
 
 ## Autres publications
 * Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? » (abstract), *Revue d’épidémiologie et de santé publique*, 2019.
