@@ -29,6 +29,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 * « Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », *Temporalités*, 2013
 
 ## Chapitres de livre
+* avec Sylvain Besle, Solenne Carof et Céline Gabarro « La participation des associations de parents dans la lutte contre les cancers pédiatriques », *Sociologie des pratiques coopératives et participatives en santé*, à paraître
 * avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
 * « Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
 * « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
