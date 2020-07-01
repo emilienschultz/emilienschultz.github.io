@@ -10,7 +10,7 @@ Mes recherches menées en collaboration et dans un contexte interdisciplinaire p
 
 Je participe actuellement avec Jeremy Ward et Laëtitia Atlani-Duault à une réflexion sur l'innovation thérapeutique dans le contexte de l'épidémie de COVID19.
 
-Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
+Me contacter : *emilien.schultz [AT] ird.fr*
 
 # Publications
 
