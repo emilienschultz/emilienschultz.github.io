@@ -4,19 +4,23 @@
 
 # Actuellement 
 
-Je suis chercheur en sociologie à l'Institut Gustave Roussy à Villejuif (financement SIRIC Socrate), associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+Je suis chercheur en sociologie à l'IRD, rattaché au laboratoire CEPED (IRD - Université de Paris) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
 Mes recherches menées en collaboration et dans un contexte interdisciplinaire portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyses__ quantitatives des données. 
 
-Je participe actuellement avec Sylvain Besle au programme SINCRO sur la sociologie des innovations en cancérologie, et je m'intéresse actuellement à l'utilisation des sciences des données et des approches orientées « intelligence artificielle » dans la recherche sur le cancer.
+Je participe actuellement avec Jeremy Ward et Laëtitia Atlani-Duault à une réflexion sur l'innovation thérapeutique dans le contexte de l'épidémie de COVID19.
 
 Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
 
 # Publications
 
+## Livre
+
+* *à paraître fin 2020* avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes.
+
 ## Coordination de numéros thématiques
-* *en cours de préparation* avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? »
-* [Numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques, 2019](https://journals.openedition.org/hrc/3078)
+* *en cours de préparation* avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? ».
+* [Numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques, 2019](https://journals.openedition.org/hrc/3078).
 
 ## Articles avec comité de lecture
 * avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020 
@@ -86,6 +90,7 @@ Me contacter : *emilien.schultz [AT] gustaveroussy.fr*
     
 # Postes antérieures
 
+* __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
 * __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile)
 * __2016__ : Recherche post-doctorale financée par Gustave Roussy dans le cadre du projet Egalican (SIRIC SOCRATE IGR)
 * __2016-2014__ : Attaché Temporaire d'Enseignement et de Recherche à Université Paris Sorbonne
