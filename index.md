@@ -4,7 +4,9 @@
 
 # Actuellement 
 
+<!---
 Je suis chercheur en sociologie à l'IRD, rattaché au laboratoire CEPED (IRD - Université de Paris) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+--->
 
 Mes recherches menées en collaboration et dans un contexte interdisciplinaire portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyses__ quantitatives des données. 
 
@@ -92,7 +94,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 * __2015__ : Formation avancées à l'analyse de réseaux - SciencesPo Paris / CSO
 * __2013__ : Ecole thématique sur la Modélisation Multi-agents MAPS5 (une semaine)
     
-# Postes antérieures
+# Parcours professionnel
 
 * __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
 * __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile)
