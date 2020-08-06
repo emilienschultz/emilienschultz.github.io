@@ -2,13 +2,11 @@
   <img width="200" src="/emilien.png">
 </p>
 
-# Actuellement 
+# Actuellement
 
-<!---
-Je suis chercheur en sociologie à l'IRD, rattaché au laboratoire CEPED (IRD - Université de Paris) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
---->
+Je suis chercheur postdoctoral en sociologie à l'IRD, rattaché au laboratoire CEPED (IRD - Université de Paris) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
-Mes recherches menées en collaboration et dans un contexte interdisciplinaire portent sur l'__innovation médicale__, la __recherche scientifique et clinique__ et les __méthodes d'analyses__ quantitatives des données. 
+Mes recherches menées en collaboration et dans un contexte interdisciplinaire portent sur la __recherche scientifique et clinique__, l'__innovation médicale__ et les __méthodes d'analyses__ quantitatives des données. 
 
 Je participe actuellement avec Jeremy Ward et Laëtitia Atlani-Duault à une réflexion sur l'innovation thérapeutique dans le contexte de l'épidémie de COVID19.
 
@@ -104,6 +102,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 # Enseignements
 
+* __2020__ : Enseignement de mathématiques avancées pour les Sciences Sociales à SciencesPo
 * __2019__ : Organisation de séminaires sur la programmation en langage Python pour l'analyse des données en SHS
 * __2017__ : Encadrement d'analyse scientométrique en cartographie des controverses (SciencesPo Paris)
 * __2014-2016__ : ATER (demi service) à Paris Sorbonne : Statistiques, Sociologie des sciences, Culture générale
@@ -121,6 +120,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 * Membre du comité de rédaction de la revue Zilsel
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
 * Séminaires de formation sur la programmation Python pour les SHS
+* Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Cancérôpole)
 
 ## Passées
 
