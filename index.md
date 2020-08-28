@@ -119,17 +119,20 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 * Coordinnateur du bureau du RT29 Sciences et Technologies en Société de l’Association Française de Sociologie
 * Membre du comité de rédaction de la revue Zilsel
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
+* Obtention d'un projet Région Nouvelle Aquitaine sur les parcours de soin vers la médecine de précision (avec Pascal Ragouet et Daniela Boaventura)
 * Séminaires de formation sur la programmation Python pour les SHS
 * Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Cancérôpole)
 
 ## Passées
 
+* Coordination de dossiers éthiques pour des projets de recherche
 * Encadrement de stagiaires
 * Co-direction du projet ACCE avec Sylvain Besle (financement Imagine for Margo)
 * Coordination d’une journée d’étude avec Solenn Carof sur « Mobilisation associatives et cancers pédiatriques », décembre 2018
 * Visiting scholar au Berkeley Institut for Data Science, 2015
 * participation au projet interdisciplinaire PALIM (Patrimoines Alimentaires) financé par Sorbonne Université 2015
 * Réalisation d’une étude d’impact pour l’ANR, 2013-2014
+* Ecriture de projets de recherche
 
 # Interventions publiques
 
