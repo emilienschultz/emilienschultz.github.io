@@ -14,6 +14,10 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 # Publications
 
+## Prépublication
+
+* [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf)
+
 ## Livre
 
 * *à paraître décembre 2020* avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes.
@@ -22,10 +26,6 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 * *en cours de préparation* avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? ».
 * [Numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques, 2019](https://journals.openedition.org/hrc/3078).
-
-## Prépublication
-
-* [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf)
 
 ## Articles avec comité de lecture
 
