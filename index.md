@@ -20,7 +20,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 ## Livre
 
-* *à paraître décembre 2020* avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes.
+* *à paraître décembre 2020* avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes. Pour plus d'information [Site du livre](htp://pyshs.fr)
 
 ## Coordination de numéros thématiques
 
@@ -29,7 +29,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 ## Articles avec comité de lecture
 
-<!--- * avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, accepté (fin 2020).--->
+* avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, accepté (fin 2020).
 * avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020 
 * avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019
 * [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
