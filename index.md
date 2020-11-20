@@ -20,7 +20,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 ## Livre
 
-* *à paraître décembre 2020* avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes. Pour plus d'information [Site du livre](http://pyshs.fr)
+* avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes. Pour plus d'information [Site du livre](http://pyshs.fr)
 
 ## Coordination de numéros thématiques
 
