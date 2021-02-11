@@ -29,7 +29,8 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 ## Articles avec comité de lecture
 
-* avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, accepté (fin 2020).
+* *(accepté, à paraître)* avec Jeremy Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021.
+* *(accepté, à paraître)* avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, 2020-3.
 * avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020 
 * avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019
 * [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
@@ -41,6 +42,8 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 ## Chapitres de livre
 
+* *(accepté, à paraître)* avec Daniela Boaventura et Solenne Carof, « Le développement de la médecine de précision en oncologie pédiatrique comme économie morale
+des promesses » dans un ouvrage collectif sur les économies de la promesse à paraître aux Presses de l’Université de Montréal, 2021.
 * avec Sylvain Besle, Solenne Carof et Céline Gabarro « La participation des associations de parents dans la lutte contre les cancers pédiatriques », *Sociologie des pratiques coopératives et participatives en santé*, à paraître
 * avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
 * « Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
@@ -108,7 +111,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 # Enseignements
 
-* __2020__ : Enseignement de mathématiques avancées pour les Sciences Sociales à SciencesPo
+* __2020__ : Statistiques pour les Sciences Sociales, SciencesPo Reims (S1 et S2)
 * __2019__ : Organisation de séminaires sur la programmation en langage Python pour l'analyse des données en SHS
 * __2017__ : Encadrement d'analyse scientométrique en cartographie des controverses (SciencesPo Paris)
 * __2014-2016__ : ATER (demi service) à Paris Sorbonne : Statistiques, Sociologie des sciences, Culture générale
@@ -122,7 +125,8 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 ## En cours
 
-* Coordinnateur du bureau du RT29 Sciences et Technologies en Société de l’Association Française de Sociologie
+* Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
+* Coordinateur du bureau du RT29 Sciences et Technologies en Société de l’Association Française de Sociologie
 * Membre du comité de rédaction de la revue Zilsel
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
 * Obtention d'un projet Région Nouvelle Aquitaine sur les parcours de soin vers la médecine de précision (avec Pascal Ragouet et Daniela Boaventura)
