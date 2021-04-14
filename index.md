@@ -33,12 +33,12 @@ N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'
 
 * [avec Jeremy Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021](https://journals.sagepub.com/doi/10.1177/1440783321999453).
 * [Schultz É, Ward JK, Atlani-Duault L, Holmes SM, Mancini J. French Public Familiarity and Attitudes toward Clinical Research during the COVID-19 Pandemic. International Journal of Environmental Research and Public Health. 2021; 18(5):2611.](https://www.mdpi.com/1660-4601/18/5/2611)
-* *(accepté, à paraître)* avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, 2020-3.
-* avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020.
-* avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019.
+* [avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, 2020-3.](https://www.cairn.info/revue-francaise-de-sociologie-2020-3-page-405.htm)
+* [avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020.](https://www.cairn.info/revue-espaces-et-societes-2019-3-page-73.htm)
+* [avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019.](https://www.cairn.info/revue-francaise-des-affaires-sociales-2019-3-page-53.htm)
 * [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
 * [avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018.](https://journals.openedition.org/tc/8957)
-* avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », *European Journal of Cancer*, 2018
+* [avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », *European Journal of Cancer*, 2018](https://www.sciencedirect.com/science/article/abs/pii/S0959804918308207)
 * [avec Johan Giry, « L'ANR en ph(r)ase critique », *Zilsel*, 2017.](https://www.cairn.info/revue-zilsel-2017-2-page-63.htm)
 * [avec Michel Dubois, « La science comme activité sociale : raisons et domaines d'étude pour la sociologie des sciences », *Histoire de la Recherche Contemporaine*, 2015.](https://journals.openedition.org/hrc/1054)
 * [« Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », *Temporalités*, 2013.](https://journals.openedition.org/temporalites/2563)
