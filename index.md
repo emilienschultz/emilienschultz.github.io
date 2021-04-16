@@ -31,7 +31,8 @@ N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'
 
 ## Articles avec comité de lecture
 
-* [avec Jeremy Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021](https://journals.sagepub.com/doi/10.1177/1440783321999453).
+* [avec Jeremy K. Ward, « Public perceptions of scientific advice: toward a science savvy public culture? », Public Health, 2021](https://www.sciencedirect.com/science/article/pii/S0033350621000652?dgcid=author)
+* [avec Jeremy K. Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021](https://journals.sagepub.com/doi/10.1177/1440783321999453).
 * [Schultz É, Ward JK, Atlani-Duault L, Holmes SM, Mancini J. French Public Familiarity and Attitudes toward Clinical Research during the COVID-19 Pandemic. International Journal of Environmental Research and Public Health. 2021; 18(5):2611.](https://www.mdpi.com/1660-4601/18/5/2611)
 * [avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, 2020-3.](https://www.cairn.info/revue-francaise-de-sociologie-2020-3-page-405.htm)
 * [avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020.](https://www.cairn.info/revue-espaces-et-societes-2019-3-page-73.htm)
