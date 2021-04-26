@@ -4,21 +4,17 @@
 
 # Actuellement
 
-Je suis chercheur postdoctoral en sociologie à l'IRD, rattaché au laboratoire CEPED (IRD - Université de Paris) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+Je suis chercheur postdoctorant en sociologie à l'IRD, rattaché au laboratoire CEPED (IRD - Université de Paris) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
 Mes recherches menées en collaboration et dans un contexte interdisciplinaire portent sur la __recherche scientifique et clinique__, l'__innovation médicale__ et les __méthodes d'analyses__ quantitatives des données. 
 
-Je participe actuellement avec Jeremy Ward et Laëtitia Atlani-Duault à une réflexion sur l'innovation thérapeutique dans le contexte de l'épidémie de COVID19.
+Je participe dans le cadre du projet TRACTRUST dirigé par Laëtitia Atlani-Duault sur la perception publique des relations science/politique pendant l'épidémie de COVID-19.
 
 Me contacter : *emilien.schultz [AT] ird.fr*
 
 # Publications
 
 N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'est pas directement en ligne.
-
-## Prépublication
-
-* [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf)
 
 ## Livre
 
@@ -65,6 +61,11 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 ## Posters récents
 
 * avec Capucine Baldini, Sylvain Besle et al., [« Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study »](https://www.geriatriconcology.net/article/S1879-4068(19)31300-1/fulltext), *International Society of Geriatric Oncology*, Genève, 2019
+
+
+## Workingpaper
+
+* [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf)
 
 ## Autres publications
 * Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? » (abstract), *Revue d’épidémiologie et de santé publique*, 2019.
