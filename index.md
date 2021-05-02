@@ -20,6 +20,8 @@ N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'
 
 * avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes. Pour plus d'information [Site du livre](http://pyshs.fr)
 
+La bibliothèque Python associée pour le traitement statistique [pyshs](https://github.com/emilienschultz/pyshs-bib)
+
 ## Coordination de numéros thématiques
 
 * *en cours de préparation* avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? ».
