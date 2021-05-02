@@ -18,7 +18,7 @@ N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'
 
 ## Livre
 
-* avec Matthias Bussonnier, *Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes [Pour plus d'information](http://pyshs.fr).
+* avec Matthias Bussonnier, [*Python pour les SHS : Introduction à la programmation pour le traitement de données*, Presses Universitaires de Rennes](http://pyshs.fr).
 
 La bibliothèque Python associée pour le traitement statistique [pyshs](https://github.com/emilienschultz/pyshs-bib)
 
