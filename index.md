@@ -119,6 +119,8 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Enseignements
 
+* __2021__ : [Formation Python pour les SHS à destinations du personnel de recherche, URFIST Lyon](https://sygefor.reseau-urfist.fr/#/training/8972/10567)
+* __2021__ : [Python pour les Sciences Humaines et Sociales, Programme doctoral du DH Center de l'Université de Lausanne](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
 * __2021__ : Sciences et Sociétés, SciencesPo Nancy ; [Formation doctorale Python pour les SHS, UNIL, département des études numériques](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
 * __2020__ : Statistiques pour les Sciences Sociales, SciencesPo Reims (S1 et S2)
 * __2019__ : Organisation de séminaires sur la programmation en langage Python pour l'analyse des données en SHS
