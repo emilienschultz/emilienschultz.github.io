@@ -29,6 +29,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## Articles avec comité de lecture
 
+* (accepté) avec Marie-Alix Molinié, « Entre évaluation technologique et conseil scientifique : la trajectoire de l’Office Parlementaire d’Évaluation des Choix Scientifiques et Technologiques», Les Cahiers d'Histoire du CNAM, à paraître.
 * (accepté) avec Céline Gabarro et Sandrine Knobé, « Le paysage associatif du cancer : quelles spécificités pour les associations de parents ? », Anthropologie & Santé, à paraître.
 * [avec Jeremy K. Ward, « Public perceptions of scientific advice: toward a science savvy public culture? », Public Health, 2021](https://www.sciencedirect.com/science/article/pii/S0033350621000652?dgcid=author)
 * [avec Jeremy K. Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021](https://journals.sagepub.com/doi/10.1177/1440783321999453).
