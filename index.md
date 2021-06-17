@@ -32,7 +32,9 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
 * (accepté) avec Marie-Alix Molinié, « Entre évaluation technologique et conseil scientifique : la trajectoire de l’Office Parlementaire d’Évaluation des Choix Scientifiques et Technologiques», Les Cahiers d'Histoire du CNAM, à paraître.
+* [avec Jeremy K. Ward, « Public perceptions of scientific advice: toward a science savvy public culture? », Public Health, 2021](https://www.sciencedirect.com/science/article/pii/S0033350621000652?dgcid=author)
 * [avec Jeremy K. Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021](https://journals.sagepub.com/doi/10.1177/1440783321999453).
+* [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
 * [avec Johan Giry, « L'ANR en ph(r)ase critique », *Zilsel*, 2017.](https://www.cairn.info/revue-zilsel-2017-2-page-63.htm)
 * [avec Michel Dubois, « La science comme activité sociale : raisons et domaines d'étude pour la sociologie des sciences », *Histoire de la Recherche Contemporaine*, 2015.](https://journals.openedition.org/hrc/1054)
 * [« Le temps d’un projet. L’influence de la temporalité du financement sur projet dans un laboratoire de biophysique », *Temporalités*, 2013.](https://journals.openedition.org/temporalites/2563)
@@ -50,9 +52,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 * [avec Rajae Touzani et al., « Early acceptability of a mobile app for contact tracing in the COVID-19 pandemic: French national online survey
  », JMIR mHealth and uHealth, 2021](https://pubmed.ncbi.nlm.nih.gov/34086589/)
-* [avec Jeremy K. Ward, « Public perceptions of scientific advice: toward a science savvy public culture? », Public Health, 2021](https://www.sciencedirect.com/science/article/pii/S0033350621000652?dgcid=author)
 * [Schultz É, Ward JK, Atlani-Duault L, Holmes SM, Mancini J. French Public Familiarity and Attitudes toward Clinical Research during the COVID-19 Pandemic. International Journal of Environmental Research and Public Health. 2021; 18(5):2611.](https://doi.org/10.3390/ijerph18052611)
-* [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
 * [avec Sylvain Besle et al., « Organisational factors influencing early clinical trials enrollment: Gustave Roussy experience », *European Journal of Cancer*, 2018](https://www.sciencedirect.com/science/article/abs/pii/S0959804918308207)
 
 ## Chapitres de livre
