@@ -89,6 +89,8 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Sélection de communications
 
+* avec Léo Mignot, « Le rapport des médecins à la recherche et à l’innovation biomédicale : analyse comparée des radiologues interventionnels et des pédiatres oncologues », Congrés de l'Association Française de Sociologie, 2021.
+* avec Jeremy Ward, « Perception de la science et controverse publique : la réception publique de la polémique sur l’efficacité de l’hydroxychloroquine contre la COVID-19 », Congrés de l'Association Française de Sociologie, 2021.
 * avec Jeremy Ward, « Les relations publiques entre Science et Politique dans l'épidémie de COVID - premiers résultats », séminaire *Frontières, temporalités, matérialités au prisme de la santé* du Centre Norbert Elias, Marseille, 2020.
 * avec Sylvain Besle, « La régulation de l'accès à la médecine de précision en cancérologie », *Journée d'étude du Réseau Thématique Génétique et Médecine Génomique*, Paris, 2019
 * avec Julien Mancini et al. « Brief information about clinical trials in different formats increase the willingness to consider participation among the economically disadvantaged », *International Conference on Communication in Healthcare*, San Diego, 2019
