@@ -4,11 +4,11 @@
 
 # Actuellement
 
-Je suis chercheur postdoctorant en sociologie à l'IRD, rattaché au laboratoire CEPED (IRD - Université de Paris) et associé au laboratoire SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+Chercheur en sociologie, [postdoctorant au laboratoire CEPED (IRD - Université de Paris)](https://www.ceped.org/fr/membres/post-doctorants-et-jeunes/article/schultz-emilien) et associé au SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
-Mes recherches portent sur la __recherche scientifique__, l'__innovation biomédicale__ et les __politiques de recherche__. Je développe aussi une réflexion sur les __méthodes d'analyses__ des données. 
+Mes travaux portent sur la relation __science/politique/santé__ et les __méthodes d'analyse__ des données. 
 
-Actuellement, je participe au TRACTRUST dirigé par Laëtitia Atlani-Duault sur la perception publique des relations science/politique pendant l'épidémie de COVID-19.
+Actuellement, je participe au projet TRACTRUST dirigé par Laëtitia Atlani-Duault, en collaboration avec Jeremy Ward, sur la perception publique des relations science/politique pendant l'épidémie de COVID-19.
 
 Me contacter : *emilien.schultz [AT] ird.fr*
 
