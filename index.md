@@ -2,7 +2,7 @@
   <img width="200" src="/emilien.png">
 </p>
 
-# Chercheur en sociologie science/santé/politique
+# Chercheur en sociologie
 
 *researcher in sociology of science and health*
 
