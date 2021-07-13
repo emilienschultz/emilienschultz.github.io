@@ -2,7 +2,9 @@
   <img width="200" src="/emilien.png">
 </p>
 
-# Actuellement
+# Chercheur en sociologie science/santé/politique
+
+*researcher in sociology of science and health*
 
 Chercheur en sociologie, [postdoctorant au laboratoire CEPED (IRD - Université de Paris)](https://www.ceped.org/fr/membres/post-doctorants-et-jeunes/article/schultz-emilien) et associé au SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
