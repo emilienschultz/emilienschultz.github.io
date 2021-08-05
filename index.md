@@ -24,6 +24,10 @@ N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'
 
 La bibliothèque Python associée pour le traitement statistique [pyshs](https://github.com/emilienschultz/pyshs-bib)
 
+## Réflexions publiques
+
+* [*Les clefs pour comprendre ces graphes qui ont fleuri lors l’épidémie de Covid-19*, The Conversation, 2021](https://theconversation.com/les-clefs-pour-comprendre-ces-graphes-qui-ont-fleuri-lors-lepidemie-de-covid-19-165185)
+
 ## Coordination de numéros thématiques
 
 * *en cours de préparation* avec Solenn Carof et Thibaud Pombet, numéro thématique de la revue *Anthropologie et Santé* « Systèmes de soin, catégorisations et expériences : quelle(s)spécificité(s) des cancers de l’enfant ? ».
