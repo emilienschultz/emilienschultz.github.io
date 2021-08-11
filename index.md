@@ -96,6 +96,7 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Sélection de communications
 
+* [ « Les économies morales des promesses en santé : le cas des nouveaux médicaments contre les cancers pédiatriques », Economie de la promesse, Montréal, 2021](https://www.cirst.uqam.ca/nouvelles/2020/programme-detaille-colloque-economies-de-la-promesse-2021/)
 * avec Léo Mignot, « Le rapport des médecins à la recherche et à l’innovation biomédicale : analyse comparée des radiologues interventionnels et des pédiatres oncologues », Congrés de l'Association Française de Sociologie, 2021.
 * avec Jeremy Ward, « Perception de la science et controverse publique : la réception publique de la polémique sur l’efficacité de l’hydroxychloroquine contre la COVID-19 », Congrés de l'Association Française de Sociologie, 2021.
 * avec Jeremy Ward, « Les relations publiques entre Science et Politique dans l'épidémie de COVID - premiers résultats », séminaire *Frontières, temporalités, matérialités au prisme de la santé* du Centre Norbert Elias, Marseille, 2020.
