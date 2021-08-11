@@ -96,6 +96,7 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Sélection de communications
 
+* [Table ronde Méthodes numériques et formation, à la journée "Méthodes numériques et pratiques scientifiques : Quelles influences des technologies numériques sur la recherche scientifique ?", 8e journée nationale d’étude du Réseau des URFIST, 2021](https://sygefor.reseau-urfist.fr/?department=14&organization=0#/training/8524/9638?from=true)
 * [ « Les économies morales des promesses en santé : le cas des nouveaux médicaments contre les cancers pédiatriques », Economie de la promesse, Montréal, 2021](https://www.cirst.uqam.ca/nouvelles/2020/programme-detaille-colloque-economies-de-la-promesse-2021/)
 * avec Léo Mignot, « Le rapport des médecins à la recherche et à l’innovation biomédicale : analyse comparée des radiologues interventionnels et des pédiatres oncologues », Congrés de l'Association Française de Sociologie, 2021.
 * avec Jeremy Ward, « Perception de la science et controverse publique : la réception publique de la polémique sur l’efficacité de l’hydroxychloroquine contre la COVID-19 », Congrés de l'Association Française de Sociologie, 2021.
