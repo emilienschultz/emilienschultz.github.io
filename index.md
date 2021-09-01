@@ -167,7 +167,6 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 ## En cours
 
 * Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
-* Coordinateur du bureau du RT29 Sciences et Technologies en Société de l’Association Française de Sociologie
 * Membre du comité de rédaction de la revue Zilsel
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
 * Obtention d'un projet Région Nouvelle Aquitaine sur les parcours de soin vers la médecine de précision (avec Pascal Ragouet et Daniela Boaventura)
@@ -176,9 +175,11 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 ## Passées
 
+* Coordinateur du bureau du réseau *Sciences et Technologies en Société* (RT29) de l’Association Française de Sociologie (2019-2021)
+* Membre du bureau du réseau RT29 (2012-2021) 
 * Coordination de dossiers éthiques pour des projets de recherche
-* Encadrement de stagiaires
-* Co-direction du projet ACCE avec Sylvain Besle (financement Imagine for Margo)
+* Encadrement de quatre stagiaires depuis 2014
+* Projet ACCE (financement Imagine for Margo, dir. S. Besle)
 * Coordination d’une journée d’étude avec Solenn Carof sur « Mobilisation associatives et cancers pédiatriques », décembre 2018
 * participation au projet interdisciplinaire PALIM (Patrimoines Alimentaires) financé par Sorbonne Université 2015
 * Réalisation d’une étude d’impact pour l’ANR, 2013-2014
