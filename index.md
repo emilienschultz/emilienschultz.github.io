@@ -4,7 +4,7 @@
 
 # Chercheur en sociologie
 
-*researcher in sociology of science and health*
+*researcher in sociology of science, science policy, health innovation and data analysis*
 
 Chercheur en sociologie, [postdoctorant au laboratoire CEPED (IRD - Université de Paris)](https://www.ceped.org/fr/membres/post-doctorants-et-jeunes/article/schultz-emilien) et associé au SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
@@ -136,10 +136,16 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 # Parcours professionnel
 
 * __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
-* __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile)
+* __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile), 6 mois
 * __2016__ : Recherche post-doctorale financée par Gustave Roussy dans le cadre du projet Egalican (SIRIC SOCRATE IGR)
 * __2016-2014__ : Attaché Temporaire d'Enseignement et de Recherche à Université Paris Sorbonne
 * __2014-2011__ : Contract doctoral Université Paris Sorbonne
+
+# Visiting scholar
+
+* __2015__ : Berkeley Institut for Data Science, 4 mois
+* __2014__ : CIRST, Montréal, 2 mois
+
 
 # Enseignements
 
@@ -174,7 +180,6 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 * Encadrement de stagiaires
 * Co-direction du projet ACCE avec Sylvain Besle (financement Imagine for Margo)
 * Coordination d’une journée d’étude avec Solenn Carof sur « Mobilisation associatives et cancers pédiatriques », décembre 2018
-* Visiting scholar au Berkeley Institut for Data Science, 2015
 * participation au projet interdisciplinaire PALIM (Patrimoines Alimentaires) financé par Sorbonne Université 2015
 * Réalisation d’une étude d’impact pour l’ANR, 2013-2014
 * Ecriture de projets de recherche
