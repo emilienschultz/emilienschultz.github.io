@@ -48,7 +48,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Sociologie de la santé et de l'innovation biomédicale
 
-* (accepté) avec Céline Gabarro et Sandrine Knobé, « Le paysage associatif du cancer : quelles spécificités pour les associations de parents ? », Anthropologie & Santé, à paraître.
+* [avec Céline Gabarro et Sandrine Knobé, « Le paysage associatif du cancer : quelles spécificités pour les associations de parents ? », Anthropologie & Santé, 2021.](https://journals.openedition.org/anthropologiesante/9749)
 * [avec Sylvain Besle, « Utiliser la recherche pour soigner le cancer : L’innovation biomédicale localisée », *Revue Française de Sociologie*, 2020-3.](https://www.cairn.info/revue-francaise-de-sociologie-2020-3-page-405.htm)
 * [avec Sylvain Besle et Solenn Carof, « Les parcours de soin des enfants en rechute de cancer », *Espaces et Sociétés*, 2020.](https://www.cairn.info/revue-espaces-et-societes-2019-3-page-73.htm)
 * [avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019.](https://www.cairn.info/revue-francaise-des-affaires-sociales-2019-3-page-53.htm)
