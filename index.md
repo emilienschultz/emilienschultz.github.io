@@ -171,7 +171,7 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
 * Obtention d'un projet Région Nouvelle Aquitaine sur les parcours de soin vers la médecine de précision (avec Pascal Ragouet et Daniela Boaventura)
 * Séminaires de formation sur la programmation Python pour les SHS
-* Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Cancérôpole)
+* Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, IJERPH, Cancérôpole)
 
 ## Passées
 
