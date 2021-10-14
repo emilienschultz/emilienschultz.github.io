@@ -96,6 +96,8 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Sélection de communications
 
+* « Quel(s) intérêt(s) de programmer en Python pour les sciences humaines et sociales ? Présentation, exemples et applications », Atelier durant la semaine DATA SHS du PDU-AMU, Aix-en-Provence, 2021.
+* « The French National Funding Agency (ANR) as a trading zone between governmental politics and scientific communities », ITI-Makers workshop, Strasbourg, 2021
 * [Table ronde Méthodes numériques et formation, à la journée "Méthodes numériques et pratiques scientifiques : Quelles influences des technologies numériques sur la recherche scientifique ?", 8e journée nationale d’étude du Réseau des URFIST, 2021](https://sygefor.reseau-urfist.fr/?department=14&organization=0#/training/8524/9638?from=true)
 * [ « Les économies morales des promesses en santé : le cas des nouveaux médicaments contre les cancers pédiatriques », Economie de la promesse, Montréal, 2021](https://www.cirst.uqam.ca/nouvelles/2020/programme-detaille-colloque-economies-de-la-promesse-2021/)
 * avec Léo Mignot, « Le rapport des médecins à la recherche et à l’innovation biomédicale : analyse comparée des radiologues interventionnels et des pédiatres oncologues », Congrés de l'Association Française de Sociologie, 2021.
@@ -149,7 +151,7 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Enseignements
 
-* __2021__ : [Formation Python pour les SHS à destinations du personnel de recherche, URFIST Lyon](https://sygefor.reseau-urfist.fr/#/training/8972/10567)
+* __2021__ : [Formations Python pour les SHS à destinations du personnel de recherche, URFIST Lyon](https://sygefor.reseau-urfist.fr/#/training/8972/10567)
 * __2021__ : [Python pour les Sciences Humaines et Sociales, Programme doctoral du DH Center de l'Université de Lausanne](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
 * __2021__ : Sciences et Sociétés, SciencesPo Nancy ; [Formation doctorale Python pour les SHS, UNIL, département des études numériques](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
 * __2020__ : Statistiques pour les Sciences Sociales, SciencesPo Reims (S1 et S2)
