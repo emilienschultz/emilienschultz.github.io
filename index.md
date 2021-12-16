@@ -98,6 +98,7 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Sélection de communications
 
+* « [Perception publique de la recherche médicale/clinique », Séminaire scientifique de l'équipe CanBios, SESSTIM, 2021.](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/slides16122021.pdf)
 * « Quel(s) intérêt(s) de programmer en Python pour les sciences humaines et sociales ? Présentation, exemples et applications », Atelier durant la semaine DATA SHS du PDU-AMU, Aix-en-Provence, 2021.
 * « The French National Funding Agency (ANR) as a trading zone between governmental politics and scientific communities », ITI-Makers workshop, Strasbourg, 2021
 * [Table ronde Méthodes numériques et formation, à la journée "Méthodes numériques et pratiques scientifiques : Quelles influences des technologies numériques sur la recherche scientifique ?", 8e journée nationale d’étude du Réseau des URFIST, 2021](https://sygefor.reseau-urfist.fr/?department=14&organization=0#/training/8524/9638?from=true)
