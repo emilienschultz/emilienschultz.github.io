@@ -75,7 +75,7 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 ## Notes critiques et compte-rendus de lecture
 
-* (accepté) avec Johan Giry, « Ceci n’est pas une démonstration. Ou pourquoi la vie sociale se satisfait mal de la métaphore théâtrale et de l’axiomatique stratégiste. À propos de Claude Rosental, La société de démonstration », Zilzl, à paraître.
+* [avec Johan Giry, « Ceci n’est pas une démonstration. Ou pourquoi la vie sociale se satisfait mal de la métaphore théâtrale et de l’axiomatique stratégiste. À propos de Claude Rosental, La société de démonstration », Zilzel, 2021.](https://www.cairn.info/revue-zilsel-2021-2-page-487.htm).
 * « De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France » de Philippe Brunet, *Revue française de sociologie*, 2019
 * « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », *Zilsel*, 2019
 * « Labyrinthes pragmatiques : comment défaire le Minotaure des « grands récits le Minotaure des « grands récits » sans perdre le fil », *Zilsel*, 2018
