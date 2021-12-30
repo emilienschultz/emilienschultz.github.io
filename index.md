@@ -98,6 +98,7 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 # Sélection de communications
 
+* [« Le langage Python en SHS : pourquoi ? comment ? », Tuto MATE-SHS, 2022.](https://mate-shs.cnrs.fr/actions/tutomate/tuto40-python-emilien-schultz/)
 * « [Perception publique de la recherche médicale/clinique », Séminaire scientifique de l'équipe CanBios, SESSTIM, 2021.](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/slides16122021.pdf)
 * « Quel(s) intérêt(s) de programmer en Python pour les sciences humaines et sociales ? Présentation, exemples et applications », Atelier durant la semaine DATA SHS du PDU-AMU, Aix-en-Provence, 2021.
 * « The French National Funding Agency (ANR) as a trading zone between governmental politics and scientific communities », ITI-Makers workshop, Strasbourg, 2021
