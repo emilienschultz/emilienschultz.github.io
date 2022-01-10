@@ -26,7 +26,9 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## Réflexions publiques
 
+* avec Antoine Blanchard, [*Les Français et la chloroquine, une défaite de la culture scientifique ?*, The Conversation, 2021](https://theconversation.com/les-francais-et-la-chloroquine-une-defaite-de-la-culture-scientifique-174482)
 * [*Les clefs pour comprendre ces graphes qui ont fleuri lors l’épidémie de Covid-19*, The Conversation, 2021](https://theconversation.com/les-clefs-pour-comprendre-ces-graphes-qui-ont-fleuri-lors-lepidemie-de-covid-19-165185)
+
 
 ## Coordination de numéros thématiques
 
@@ -59,6 +61,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Publications interdisciplinaires et médicales
 
+* Schultz É, Atlani-Duault L, Peretti-Watel P, Ward JK, « Does the public know when a scientific controversy is over? Public perceptions of hydroxychloroquine in France between April 2020 and June 2021 », Therapies, à paraître.
 * [avec Rajae Touzani et al., « Early acceptability of a mobile app for contact tracing in the COVID-19 pandemic: French national online survey
  », JMIR mHealth and uHealth, 2021](https://pubmed.ncbi.nlm.nih.gov/34086589/)
 * [Schultz É, Ward JK, Atlani-Duault L, Holmes SM, Mancini J. French Public Familiarity and Attitudes toward Clinical Research during the COVID-19 Pandemic. International Journal of Environmental Research and Public Health. 2021; 18(5):2611.](https://doi.org/10.3390/ijerph18052611)
