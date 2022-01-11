@@ -24,7 +24,7 @@ N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'
 
 La bibliothèque Python associée pour le traitement statistique [pyshs](https://github.com/emilienschultz/pyshs-bib)
 
-## Réflexions publiques
+## Articles grand public
 
 * avec Antoine Blanchard, [*Les Français et la chloroquine, une défaite de la culture scientifique ?*, The Conversation, 2021](https://theconversation.com/les-francais-et-la-chloroquine-une-defaite-de-la-culture-scientifique-174482)
 * [*Les clefs pour comprendre ces graphes qui ont fleuri lors l’épidémie de Covid-19*, The Conversation, 2021](https://theconversation.com/les-clefs-pour-comprendre-ces-graphes-qui-ont-fleuri-lors-lepidemie-de-covid-19-165185)
@@ -93,9 +93,12 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 
 ## Workingpaper
 
-* [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf)
+* [Émilien Schultz, Léo Mignot, Jeremy K Ward, Daniela Boaventura Silva Bomfim, Christian Chabannon, et al.. Public perceptions of the association between drug effectiveness and drug novelty in France during the COVID-19 pandemic. 2021. ⟨halshs-03448961⟩](https://hal.archives-ouvertes.fr/halshs-03448961), soumis à PLOS One.
+* [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf) 
 
 ## Autres publications
+* [Enquête SLAVACO Vague 3 - SESSTIM : Vaccination des enfants, intentions de vaccination contre le Covid et usage de l’application Tousanticovid, *Note de l'Observatoire Régional de Santé PACA*, 2022.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague3.pdf)
+* [Enquête SLAVACO Vague 2 : passe sanitaire, obligation vaccinale et rappels, *Note de l'Observatoire Régional de Santé PACA*, 2021.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague2.pdf)
 * Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? » (abstract), *Revue d’épidémiologie et de santé publique*, 2019.
 * « Mesurer la performance de la recherche. Tout un programme », *Carnet Zilsel*, 2014
 
