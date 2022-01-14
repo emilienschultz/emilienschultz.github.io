@@ -127,6 +127,8 @@ des promesses » dans un ouvrage collectif sur les économies de la promesse à 
 * « Comment les chercheurs s’arrangent avec l’ANR ? », *Congrès de l'AISLF*, Montréal, 2015
 * « La carrière de l’Agence Nationale de la Recherche : 2005-2015 », *Séminaire Sociologie des sciences du laboratoire Printemps*, Versailles, 2015
 * « From funding to research communities : characterization of the matching between instruments of governance and research actors in the case of two scientific programs at the French national funding agency, Agence Nationale de la Recherche », *Workshop Research Funding and Dynamics of Science*, ESA Research Network 24 (SSTNET), 2014
+* « L'Agence Nationale de la Recherche (ANR) a-t-elle une politique scientifique? », UQAM, CIRST, Montréal
+
 
 
 # Formation
