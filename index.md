@@ -6,7 +6,7 @@
 
 *researcher in sociology of science, science policy, health innovation and data analysis*
 
-Chercheur en sociologie, [postdoctorant au laboratoire CEPED (IRD - Université de Paris)](https://www.ceped.org/fr/membres/post-doctorants-et-jeunes/article/schultz-emilien) et associé au SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+Chercheur en sociologie, [postdoctorant au laboratoire CEPED (IRD - Université de Paris)](https://www.ceped.org/fr/membres/post-doctorants-et-jeunes/article/schultz-emilien) et associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/).
 
 Mes travaux portent sur la relation __science/politique/santé__ et les __méthodes d'analyse__ des données. 
 
