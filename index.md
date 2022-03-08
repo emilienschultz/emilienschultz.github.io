@@ -70,9 +70,9 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## Chapitres de livre
 
-* *(accepté, à paraître)* avec Daniela Boaventura et Solenne Carof, « Le développement de la médecine de précision en oncologie pédiatrique comme économie morale
-des promesses » dans un ouvrage collectif sur les économies de la promesse à paraître aux Presses de l’Université de Montréal, 2021.
+* *(accepté, à paraître)* avec Daniela Boaventura et Solenne Carof, « L'économie morale des promesses de la médecine de précision en oncologie pédiatrique », *Attentes, promesses et technosciences*, Presses de l’Université de Montréal, 2022.
 * avec Sylvain Besle, Solenne Carof et Céline Gabarro « La participation des associations de parents dans la lutte contre les cancers pédiatriques », *Sociologie des pratiques coopératives et participatives en santé*, à paraître
+* Patrick Peretti-Watel, Caroline Alleaume, Odile Launay, Jocelyn Raude, Émilien Schultz, Jeremy Ward, Pierre Verger, « Une crise politisée ? Masques, chloroquine & vaccin », *Huis-clos avec un virus*, dir. Patrick Peretti-Watel, Presses de l’Université de Montréal, 2022.
 * avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
 * « Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
 * « Le projet comme catalyseur? Modéliser la réaction entre l’ANR et la Chimie Durable en France (2007-2012) » dans *Le gouvernement des disciplines académiques*, dir. Martin Benninghoff, Cécile Crespy et Jean-Philippe Leresche (dir.), 2015
