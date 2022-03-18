@@ -50,6 +50,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Sociologie de la santé et de l'innovation biomédicale
 
+* avec Léo Mignot, « Les innovations d’intelligence artificielle en radiologie à l’épreuve des régulations du système de santé », *Réseaux*, à paraître.
 * [avec Thibaud Pombet et Solenne Carof, « Entre catégorie médicale et expérience située : quelle(s) spécificité(s) des cancers pédiatriques ?
  », Introduction au numéro thématique, Anthropologie & Santé, 2021.](https://journals.openedition.org/anthropologiesante/10500)
 * [avec Céline Gabarro et Sandrine Knobé, « Le paysage associatif du cancer : quelles spécificités pour les associations de parents ? », Anthropologie & Santé, 2021.](https://journals.openedition.org/anthropologiesante/9749)
