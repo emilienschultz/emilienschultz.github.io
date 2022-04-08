@@ -40,7 +40,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
 * (accepté) avec Johan Giry, « L’Agence nationale de la recherche, fer de lance d’une internationalisation néolibérale de la politique scientifique française (2004-2010) ? », Revue Internationale des Politiques Comparées, à paraître.
-* (accepté) avec Marie-Alix Molinié, « Entre évaluation technologique et conseil scientifique : la trajectoire de l’Office Parlementaire d’Évaluation des Choix Scientifiques et Technologiques », Les Cahiers d'Histoire du CNAM, à paraître.
+* [avec Marie-Alix Molinié, « Entre évaluation technologique et conseil scientifique : la trajectoire de l’Office Parlementaire d’Évaluation des Choix Scientifiques et Technologiques », Les Cahiers d'Histoire du CNAM, 2022.](https://technique-societe.cnam.fr/actualite-de-jean-jacques-salomon-1322730.kjsp)
 * [avec Jeremy K. Ward, « Public perceptions of scientific advice: toward a science savvy public culture? », Public Health, 2021](https://www.sciencedirect.com/science/article/pii/S0033350621000652?dgcid=author)
 * [avec Jeremy K. Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021](https://journals.sagepub.com/doi/10.1177/1440783321999453).
 * [avec Marie-Alix Molinié, « L’OPECST au travail. Enquête sur la genèse d’un rapport », *Histoire de la Recherche Contemporaine*, 2019](https://journals.openedition.org/hrc/3182)
@@ -106,6 +106,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 # Sélection de communications
 
+* aved Mariannig Le Béchec, [« Reproductibilité de l'enquête SOSP - State of Open Science Practices in France »](https://github.com/emilienschultz/sosppyshs), Coulisses du Code - Python pour les SHS.
 * [« Le langage Python en SHS : pourquoi ? comment ? », Tuto MATE-SHS, 2022.](https://mate-shs.cnrs.fr/actions/tutomate/tuto40-python-emilien-schultz/)
 * « [Perception publique de la recherche médicale/clinique », Séminaire scientifique de l'équipe CanBios, SESSTIM, 2021.](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/slides16122021.pdf)
 * « Quel(s) intérêt(s) de programmer en Python pour les sciences humaines et sociales ? Présentation, exemples et applications », Atelier durant la semaine DATA SHS du PDU-AMU, Aix-en-Provence, 2021.
@@ -182,6 +183,8 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## En cours
 
+* Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon
+* Collaboration avec la coopérative Datactivist et Huma-Num pour développer des démonstrateurs d'application de traitement de données en SHS
 * Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
 * Membre du comité de rédaction de la revue Zilsel
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
