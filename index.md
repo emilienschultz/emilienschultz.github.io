@@ -62,6 +62,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Publications interdisciplinaires et médicales
 
+* Baldini C., Charton E., Schultz E., ..., Besle S., « Access to early-phase clinical trials in older patients with cancer in France: the EGALICAN-2 study », ESMO Open, 2022.
 * Schultz É, Touzani R., Mancini J., Ward JK, « From contact tracing to COVID-19 pass holder; the tortured journey of the French TousAntiCovid contact tracing app. », Public Health, 2022
 * [Schultz É, Atlani-Duault L, Peretti-Watel P, Ward JK, « Does the public know when a scientific controversy is over? Public perceptions of hydroxychloroquine in France between April 2020 and June 2021 », Therapies, 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8801974/).
 * [avec Rajae Touzani et al., « Early acceptability of a mobile app for contact tracing in the COVID-19 pandemic: French national online survey
