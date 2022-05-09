@@ -62,6 +62,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Publications interdisciplinaires et médicales
 
+* [Schultz É., Mignot L., Ward J.,  Boaventura Silva Bomfim D., Chabannon C. and Mancini J., « Public perceptions of the association between drug effectiveness and drug novelty in France during the COVID-19 pandemic », Therapies, 2022](https://hal.archives-ouvertes.fr/halshs-03448961)
 * Baldini C., Charton E., Schultz E., ..., Besle S., « Access to early-phase clinical trials in older patients with cancer in France: the EGALICAN-2 study », ESMO Open, 2022.
 * Schultz É, Touzani R., Mancini J., Ward JK, « From contact tracing to COVID-19 pass holder; the tortured journey of the French TousAntiCovid contact tracing app. », Public Health, 2022
 * [Schultz É, Atlani-Duault L, Peretti-Watel P, Ward JK, « Does the public know when a scientific controversy is over? Public perceptions of hydroxychloroquine in France between April 2020 and June 2021 », Therapies, 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8801974/).
@@ -98,7 +99,6 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Workingpaper
 
-* [Émilien Schultz, Léo Mignot, Jeremy K Ward, Daniela Boaventura Silva Bomfim, Christian Chabannon, et al.. Public perceptions of the association between drug effectiveness and drug novelty in France during the COVID-19 pandemic. 2021. ⟨halshs-03448961⟩](https://hal.archives-ouvertes.fr/halshs-03448961), soumis à PLOS One.
 * [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf) 
 
 ## Autres publications
@@ -186,6 +186,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## En cours
 
+* Workshop Médecine de Précision - Bordeaux - 1ier juin 2022
 * Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon
 * Collaboration avec la coopérative Datactivist et Huma-Num pour développer des démonstrateurs d'application de traitement de données en SHS
 * Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
