@@ -109,8 +109,8 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Sélection de communications
 
-* dicutant invité à la journée d'étude ["cancer et sciences sociales"](http://triangle.ens-lyon.fr/spip.php?article10419) organisé par Mathis Bernard,  François Buton et Valentin Thomas, ENS Lyon, mai 2022.
-* avec Mariannig Le Béchec, [« Reproductibilité de l'enquête SOSP - State of Open Science Practices in France »](https://github.com/emilienschultz/sosppyshs), Coulisses du Code - Python pour les SHS.
+* dicutant invité à la journée d'étude ["cancer et sciences sociales"](http://triangle.ens-lyon.fr/spip.php?article10419), organisée par Mathis Bernard,  François Buton et Valentin Thomas, ENS Lyon, mai 2022.
+* avec Mariannig Le Béchec, [« Reproductibilité de l'enquête SOSP - State of Open Science Practices in France »](https://github.com/emilienschultz/sosppyshs), Coulisses du Code - Python pour les SHS, mars 2022.
 * [« Le langage Python en SHS : pourquoi ? comment ? », Tuto MATE-SHS, 2022.](https://mate-shs.cnrs.fr/actions/tutomate/tuto40-python-emilien-schultz/)
 * « [Perception publique de la recherche médicale/clinique », Séminaire scientifique de l'équipe CanBios, SESSTIM, 2021.](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/slides16122021.pdf)
 * « Quel(s) intérêt(s) de programmer en Python pour les sciences humaines et sociales ? Présentation, exemples et applications », Atelier durant la semaine DATA SHS du PDU-AMU, Aix-en-Provence, 2021.
