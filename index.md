@@ -109,6 +109,9 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Sélection de communications
 
+*  « Les débats autour de l’(hydroxy)chloroquine sur les réseaux sociaux : regards croisés entre France et Cameroun », Colloque international francophone multisite de l’AMADES - *Anthropologie & Covid-19 États, expériences et incertitudes en temps de pandémie*, Marseille, juin 2022.
+* « Sociologie en contexte interdisciplinaire avec les médecins, retours d'expérience », *La Fabrique des Innovations - les coulisses de la recherche en santé*, Bordeaux, juin 2022.
+* avec Léo Mignot et Pierre Mirambet, « Les médecins-chercheurs de la médecine de précision - Comment la sociologie peut-elle saisir les médecins qui font de la recherche ? », *Workshop “(re)compositions autour de la médecine de précision”*, Bordeaux, juin 2022.
 * dicutant invité à la journée d'étude ["cancer et sciences sociales"](http://triangle.ens-lyon.fr/spip.php?article10419), organisée par Mathis Bernard,  François Buton et Valentin Thomas, ENS Lyon, mai 2022.
 * avec Mariannig Le Béchec, [« Reproductibilité de l'enquête SOSP - State of Open Science Practices in France »](https://github.com/emilienschultz/sosppyshs), Coulisses du Code - Python pour les SHS, mars 2022.
 * [« Le langage Python en SHS : pourquoi ? comment ? », Tuto MATE-SHS, 2022.](https://mate-shs.cnrs.fr/actions/tutomate/tuto40-python-emilien-schultz/)
