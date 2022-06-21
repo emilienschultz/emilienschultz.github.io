@@ -71,7 +71,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Sociologie de la santé et de l'innovation biomédicale
 
-* (accepté) avec Léo Mignot, « Les innovations d’intelligence artificielle en radiologie à l’épreuve des régulations du système de santé », *Réseaux*, à paraître.
+* [avec Léo Mignot, « Les innovations d’intelligence artificielle en radiologie à l’épreuve des régulations du système de santé », *Réseaux*, 2022](https://www.cairn.info/revue-reseaux-2022-2-page-65.htm).
 * [avec Thibaud Pombet et Solenne Carof, « Entre catégorie médicale et expérience située : quelle(s) spécificité(s) des cancers pédiatriques ?
  », Introduction au numéro thématique, Anthropologie & Santé, 2021.](https://journals.openedition.org/anthropologiesante/10500)
 * [avec Céline Gabarro et Sandrine Knobé, « Le paysage associatif du cancer : quelles spécificités pour les associations de parents ? », Anthropologie & Santé, 2021.](https://journals.openedition.org/anthropologiesante/9749)
@@ -94,7 +94,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 ## Chapitres de livre
 
 * *(accepté, à paraître)* avec Daniela Boaventura et Solenne Carof, « L'économie morale des promesses de la médecine de précision en oncologie pédiatrique », *Attentes, promesses et technosciences*, Presses de l’Université de Montréal, 2022.
-* avec Sylvain Besle, Solenne Carof et Céline Gabarro « La participation des associations de parents dans la lutte contre les cancers pédiatriques », *Sociologie des pratiques coopératives et participatives en santé*, à paraître
+* [avec Sylvain Besle, Solenne Carof et Céline Gabarro « La participation des associations de parents dans la lutte contre les cancers pédiatriques », *Sociologie des pratiques coopératives et participatives en santé*, 2022.](https://www.irdes.fr/recherche/2022/ouvrage-008-pratiques-de-cooperation-en-sante-regards-sociologiques.html)
 * Patrick Peretti-Watel, Caroline Alleaume, Odile Launay, Jocelyn Raude, Émilien Schultz, Jeremy Ward, Pierre Verger, « Une crise politisée ? Masques, chloroquine & vaccin », *Huis-clos avec un virus*, dir. Patrick Peretti-Watel, Presses de l’Université de Montréal, 2022.
 * avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
 * « Chacun cherche son impact. L’inconfortable absence de consensus sur les dispositifs d’évaluation de l’impact des politiques scientifiques » dans *Faire et dire l'évaluation*, Christine Barats, Julie Bouchard et Arielle Haakenstad (dir.), 2018
@@ -211,7 +211,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Audition publique de l'OPECST [Les enjeux du conseil scientifique aux institutions politiques](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/office-parlementaire-d-evaluation-des-choix-scientifiques-et-technologiques/secretariat/a-la-une/les-enjeux-du-conseil-scientifique-aux-institutions-politiques), Assemblée Nationale, 2019
 * Participation à la table-ronde « Accéder à l'innovation : un plus pour nous soigner ? » organisée par le SIRIC Brio, Bordeaux, 2019
 
-# Contrats de consultante
+# Contrats de consultance
 
 * Développement de preuve de concepts d'usage du machine learning pour HUMA-NUM Lab avec la coopérative *Datactivist*, 2022.
 * Réanalyse d'enquête dans une perspective de science ouverte, *Cabinet Inno3*, 2022.
