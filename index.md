@@ -10,7 +10,7 @@ Chercheur en sociologie, [postdoctorant au laboratoire CEPED (IRD - Université 
 
 Mes travaux portent sur la relation __science/politique/santé__ et les __méthodes d'analyse__ des données. 
 
-Actuellement, je participe au projet TRACTRUST dirigé par Laëtitia Atlani-Duault, en collaboration avec Jeremy Ward, sur la perception publique des relations science/politique pendant l'épidémie de COVID-19.
+Actuellement, je participe au projet TRACTRUST (dir. Laëtitia Atlani-Duault) en collaboration avec Jeremy Ward, sur la perception publique des relations science/politique pendant l'épidémie de COVID-19.
 
 Me contacter : *emilien.schultz [AT] ird.fr*
 
@@ -27,6 +27,8 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 # Parcours professionnel
 
+* __2023-2022__ : Chercheur postdoctorant à SciencesPo, Médialab (projet TRACTRUST, avec Guillaume Lachenal et Daniel Benamouzig)
+* __2022-2020__ : Chercheur postdoctorant à l'IRD, laboratoire CEPED (projet TRACTRUST, avec Laëtitia Atlani-Duault)
 * __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
 * __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile), 6 mois
 * __2016__ : Recherche post-doctorale financée par Gustave Roussy dans le cadre du projet Egalican (SIRIC SOCRATE IGR)
