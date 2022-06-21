@@ -14,6 +14,25 @@ Actuellement, je participe au projet TRACTRUST dirigé par Laëtitia Atlani-Duau
 
 Me contacter : *emilien.schultz [AT] ird.fr*
 
+
+# Formation
+
+* __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
+>  [Construire une économie de la recherche sur projets. L'installation de l’Agence Nationale de la Recherche en France et ses conséquences dans les domaines de la génomique végétale et de la chimie durable](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/these-vf.pdf)
+* __2011__ : Master Logique Philosophie Histoire et Sociologie des Sciences (LOPHISS) à Paris VII
+* __2011-2007__ : Formation en physique appliquée à l'ENS de Cachan (EEA)
+    * 2011 : Diplôme de l'ENS de Cachan
+    * 2010 : Agrégation de physique appliquée - préparation à l'ENS de Cachan
+* Classes préparatoire en physique et science de l'ingénieur à Strasbourg
+
+# Parcours professionnel
+
+* __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
+* __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile), 6 mois
+* __2016__ : Recherche post-doctorale financée par Gustave Roussy dans le cadre du projet Egalican (SIRIC SOCRATE IGR)
+* __2016-2014__ : Attaché Temporaire d'Enseignement et de Recherche à Université Paris Sorbonne
+* __2014-2011__ : Contract doctoral Université Paris Sorbonne
+
 # Publications
 
 N'hésitez pas à me contacter pour accéder à une publication dont l'accès n'est pas directement en ligne.
@@ -59,7 +78,6 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 * [avec Sylvain Besle et Lola Auroy, « La régulation de la pertinence thérapeutique des essais précoces en cancérologie », *Revue Française des Affaires Sociales*, 2019.](https://www.cairn.info/revue-francaise-des-affaires-sociales-2019-3-page-53.htm)
 * [avec Renaud Debailly et Christophe Lavelle, « Entre innovation et tradition, l’entretien et circulation d’un ferment : le cas du Kéfir », *Techniques et Culture*, 2018.](https://journals.openedition.org/tc/8957)
 
-
 ### Publications interdisciplinaires et médicales
 
 * [Schultz É., Mignot L., Ward J.,  Boaventura Silva Bomfim D., Chabannon C. and Mancini J., « Public perceptions of the association between drug effectiveness and drug novelty in France during the COVID-19 pandemic », Therapies, 2022](https://hal.archives-ouvertes.fr/halshs-03448961)
@@ -96,7 +114,6 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 * avec Capucine Baldini, Sylvain Besle et al., [« Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study »](https://www.geriatriconcology.net/article/S1879-4068(19)31300-1/fulltext), *International Society of Geriatric Oncology*, Genève, 2019
 
-
 ## Workingpaper
 
 * [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf) 
@@ -107,7 +124,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? » (abstract), *Revue d’épidémiologie et de santé publique*, 2019.
 * « Mesurer la performance de la recherche. Tout un programme », *Carnet Zilsel*, 2014
 
-# Sélection de communications
+# Communications
 
 *  « Les débats autour de l’(hydroxy)chloroquine sur les réseaux sociaux : regards croisés entre France et Cameroun », Colloque international francophone multisite de l’AMADES - *Anthropologie & Covid-19 États, expériences et incertitudes en temps de pandémie*, Marseille, juin 2022.
 * « Sociologie en contexte interdisciplinaire avec les médecins, retours d'expérience », *La Fabrique des Innovations - les coulisses de la recherche en santé*, Bordeaux, juin 2022.
@@ -137,39 +154,13 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * « Comment les chercheurs s’arrangent avec l’ANR ? », *Congrès de l'AISLF*, Montréal, 2015
 * « La carrière de l’Agence Nationale de la Recherche : 2005-2015 », *Séminaire Sociologie des sciences du laboratoire Printemps*, Versailles, 2015
 * « From funding to research communities : characterization of the matching between instruments of governance and research actors in the case of two scientific programs at the French national funding agency, Agence Nationale de la Recherche », *Workshop Research Funding and Dynamics of Science*, ESA Research Network 24 (SSTNET), 2014
-* « L'Agence Nationale de la Recherche (ANR) a-t-elle une politique scientifique? », UQAM, CIRST, Montréal
-
-
-
-# Formation
-
-* __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
->  [Construire une économie de la recherche sur projets. L'installation de l’Agence Nationale de la Recherche en France et ses conséquences dans les domaines de la génomique végétale et de la chimie durable](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/these-vf.pdf)
-* __2011__ : Master Logique Philosophie Histoire et Sociologie des Sciences (LOPHISS) à Paris VII
-* __2011-2007__ : Formation en physique appliquée à l'ENS de Cachan (EEA)
-    * 2011 : Diplôme de l'ENS de Cachan
-    * 2010 : Agrégation de physique appliquée - préparation à l'ENS de Cachan
-* Classes préparatoire en physique et science de l'ingénieur à Strasbourg
-
-## Formations suivies:
-* __2020__ : Formation sur l'intelligence artificielle appliquée à la physique médicale (19h), SIRIC SOCRATE Gustave Roussy
-* __2019__ : Formation Géostat Santé - Géographie/Géométrie/Géostatistique de la santé (une semaine)
-* __2015__ : Formation avancées à l'analyse de réseaux - SciencesPo Paris / CSO
-* __2013__ : Ecole thématique sur la Modélisation Multi-agents MAPS5 (une semaine)
-    
-# Parcours professionnel
-
-* __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
-* __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile), 6 mois
-* __2016__ : Recherche post-doctorale financée par Gustave Roussy dans le cadre du projet Egalican (SIRIC SOCRATE IGR)
-* __2016-2014__ : Attaché Temporaire d'Enseignement et de Recherche à Université Paris Sorbonne
-* __2014-2011__ : Contract doctoral Université Paris Sorbonne
+* « L'Agence Nationale de la Recherche (ANR) a-t-elle une politique scientifique? », UQAM, CIRST, Montréal, 2014
+* ...
 
 # Visiting scholar
 
 * __2015__ : Berkeley Institut for Data Science, 4 mois
 * __2014__ : CIRST, Montréal, 2 mois
-
 
 # Enseignements
 
@@ -218,3 +209,9 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Audition publique de l'OPECST [Les enjeux du conseil scientifique aux institutions politiques](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/office-parlementaire-d-evaluation-des-choix-scientifiques-et-technologiques/secretariat/a-la-une/les-enjeux-du-conseil-scientifique-aux-institutions-politiques), Assemblée Nationale, 2019
 * Participation à la table-ronde « Accéder à l'innovation : un plus pour nous soigner ? » organisée par le SIRIC Brio, Bordeaux, 2019
 
+# Contrats de consultante
+
+* Développement de preuve de concepts d'usage du machine learning pour HUMA-NUM Lab avec la coopérative *Datactivist*, 2022.
+* Réanalyse d'enquête dans une perspective de science ouverte, *Cabinet Inno3*, 2022.
+* Analyse de données de CommonData, 2016
+* Passation d'enquête par questionnaire et développement d'interface Conseil Régional Val-de-Marne, 2014.
