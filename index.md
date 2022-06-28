@@ -12,6 +12,10 @@ Mes travaux portent sur la relation __science/politique/santé__ et les __métho
 
 Actuellement, je participe au projet TRACTRUST (dir. Laëtitia Atlani-Duault) en collaboration avec Jeremy Ward, sur la perception publique des relations science/politique pendant l'épidémie de COVID-19.
 
+Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
+
+
+
 Me contacter : *emilien.schultz [AT] ird.fr*
 
 
@@ -183,6 +187,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## En cours
 
+* Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 * Organisation workshop [(Re)compositions autour de la médecine de précision en région Nouvelle Aquitaine](https://github.com/emilienschultz/workshop01062022), Bordeaux, juin 2022
 * Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon
 * Collaboration avec la coopérative Datactivist et Huma-Num pour développer des démonstrateurs d'application de traitement de données en SHS
