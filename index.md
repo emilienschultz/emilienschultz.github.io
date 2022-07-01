@@ -6,11 +6,9 @@
 
 *researcher in sociology of science, science policy, health innovation and data analysis*
 
-Chercheur en sociologie, [postdoctorant au laboratoire CEPED (IRD - Université de Paris)](https://www.ceped.org/fr/membres/post-doctorants-et-jeunes/article/schultz-emilien) et associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/).
+Chercheur en sociologie, [postdoctorant au médialab (SciencesPo) et chercheur associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/), dans le projet TRACTRUST (dir. Laëtitia Atlani-Duault).
 
 Mes travaux portent sur la relation __science/politique/santé__ et les __méthodes d'analyse__ des données. 
-
-Actuellement, je participe au projet TRACTRUST (dir. Laëtitia Atlani-Duault) en collaboration avec Jeremy Ward, sur la perception publique des relations science/politique pendant l'épidémie de COVID-19.
 
 Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 
@@ -170,6 +168,9 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Enseignements
 
+* __2022__ : (à venir) "Politiques du vivant", parcours METIS SciencesPo, L2.
+* __2022__ : Formation Python pour les SHS à l'URFIST de Lyon ; à la plateforme Progédo Aix-Marseille Université.
+* __2022__ : Formation Python pour les SHS pour les doctorants du réseau suisse CUSO
 * __2021__ : [Formations Python pour les SHS à destinations du personnel de recherche, URFIST Lyon](https://sygefor.reseau-urfist.fr/#/training/8972/10567)
 * __2021__ : [Python pour les Sciences Humaines et Sociales, Programme doctoral du DH Center de l'Université de Lausanne](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
 * __2021__ : Sciences et Sociétés, SciencesPo Nancy ; [Formation doctorale Python pour les SHS, UNIL, département des études numériques](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
