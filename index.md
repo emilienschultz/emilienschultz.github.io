@@ -6,7 +6,7 @@
 
 *researcher in sociology of science, science policy, health innovation and data analysis*
 
-Chercheur en sociologie, [postdoctorant au médialab (SciencesPo) et chercheur associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/), dans le projet TRACTRUST (dir. Laëtitia Atlani-Duault).
+Chercheur en sociologie, postdoctorant au médialab (SciencesPo) et chercheur associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/), dans le projet TRACTRUST (dir. Laëtitia Atlani-Duault).
 
 Mes travaux portent sur la relation __science/politique/santé__ et les __méthodes d'analyse__ des données. 
 
