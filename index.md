@@ -62,7 +62,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
  
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
-* (accepté) avec Johan Giry, « L’Agence nationale de la recherche, fer de lance d’une internationalisation néolibérale de la politique scientifique française (2004-2010) ? », Revue Internationale des Politiques Comparées, à paraître.
+* [avec Johan Giry, « L’Agence nationale de la recherche, fer de lance d’une internationalisation néolibérale de la politique scientifique française (2004-2010) ? », Revue Internationale des Politiques Comparées, 2022.](https://www.cairn.info/revue-internationale-de-politique-comparee-2022-1-page-173.htm)
 * [avec Marie-Alix Molinié, « Entre évaluation technologique et conseil scientifique : la trajectoire de l’Office Parlementaire d’Évaluation des Choix Scientifiques et Technologiques », Les Cahiers d'Histoire du CNAM, 2022.](https://technique-societe.cnam.fr/actualite-de-jean-jacques-salomon-1322730.kjsp)
 * [avec Jeremy K. Ward, « Public perceptions of scientific advice: toward a science savvy public culture? », Public Health, 2021](https://www.sciencedirect.com/science/article/pii/S0033350621000652?dgcid=author)
 * [avec Jeremy K. Ward, « Science under COVID-19’s magnifying glass: lessons from the first months of the chloroquine debate in the French press », Journal of Sociology, 2021](https://journals.sagepub.com/doi/10.1177/1440783321999453).
