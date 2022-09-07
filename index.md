@@ -12,7 +12,7 @@ Mes travaux portent sur la relation __science/politique/santé__ et les __métho
 
 Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 
-Me contacter : *emilien.schultz [AT] ird.fr*
+Me contacter : *emilien.schultz [AT] sciencespo.fr*
 
 
 # Formation
