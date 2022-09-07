@@ -6,13 +6,11 @@
 
 *researcher in sociology of science, science policy, health innovation and data analysis*
 
-Chercheur en sociologie, postdoctorant au médialab (SciencesPo) et chercheur associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/), dans le projet TRACTRUST (dir. Laëtitia Atlani-Duault).
+Chercheur en sociologie, postdoctorant au médialab (SciencesPo) et chercheur associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/), dans le projet TRACTRUST.
 
 Mes travaux portent sur la relation __science/politique/santé__ et les __méthodes d'analyse__ des données. 
 
 Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
-
-
 
 Me contacter : *emilien.schultz [AT] ird.fr*
 
@@ -29,7 +27,7 @@ Me contacter : *emilien.schultz [AT] ird.fr*
 
 # Parcours professionnel
 
-* __2023-2022__ : Chercheur postdoctorant à SciencesPo, Médialab (projet TRACTRUST, avec Guillaume Lachenal et Daniel Benamouzig)
+* __2023-2022__ : Chercheur postdoctorant à Sciences Po, Médialab (projet TRACTRUST, avec Guillaume Lachenal et Daniel Benamouzig)
 * __2022-2020__ : Chercheur postdoctorant à l'IRD, laboratoire CEPED (projet TRACTRUST, avec Laëtitia Atlani-Duault)
 * __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
 * __2017__ : Recherche post-doctoral IRD à La Réunion dans le cadre du programme TIS (Technologie de l'Insecte Stérile), 6 mois
@@ -49,6 +47,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## Articles grand public
 
+* avec Léo Mignot, [* Radiologie : pourquoi l’IA n’a (toujours) pas remplacé le médecin*, The Conversation, 2022](https://theconversation.com/radiologie-pourquoi-lia-na-toujours-pas-remplace-le-medecin-185319)
 * avec Antoine Blanchard, [*Les Français et la chloroquine, une défaite de la culture scientifique ?*, The Conversation, 2021](https://theconversation.com/les-francais-et-la-chloroquine-une-defaite-de-la-culture-scientifique-174482)
 * [*Les clefs pour comprendre ces graphes qui ont fleuri lors l’épidémie de Covid-19*, The Conversation, 2021](https://theconversation.com/les-clefs-pour-comprendre-ces-graphes-qui-ont-fleuri-lors-lepidemie-de-covid-19-165185)
 
@@ -73,6 +72,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Sociologie de la santé et de l'innovation biomédicale
 
+* avec Daniela Boaventura, « Les essais cliniques, des instruments de recherche comme les autres ? Étude d’un essai clinique de médecine de précision en France », *Zilsel*, à paraître.
 * [avec Léo Mignot, « Les innovations d’intelligence artificielle en radiologie à l’épreuve des régulations du système de santé », *Réseaux*, 2022](https://www.cairn.info/revue-reseaux-2022-2-page-65.htm).
 * [avec Thibaud Pombet et Solenne Carof, « Entre catégorie médicale et expérience située : quelle(s) spécificité(s) des cancers pédiatriques ?
  », Introduction au numéro thématique, Anthropologie & Santé, 2021.](https://journals.openedition.org/anthropologiesante/10500)
@@ -106,6 +106,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du Travail, Lectures.org, Quaderni, Histoire de la Recherche Contemporaine, Zilsel...
 
+* *Les valeurs de la science. Enquête sur les réformes de l’évaluation de la recherche en France.* de Clémentine Gozlan, *Revue Française de Sociologie*, 2021.
 * [avec Johan Giry, « Ceci n’est pas une démonstration. Ou pourquoi la vie sociale se satisfait mal de la métaphore théâtrale et de l’axiomatique stratégiste. À propos de Claude Rosental, La société de démonstration », Zilzel, 2021.](https://www.cairn.info/revue-zilsel-2021-2-page-487.htm).
 * « De la science à l’industrie. Cellules souches embryonnaires et biotechnologies en France » de Philippe Brunet, *Revue française de sociologie*, 2019
 * « De la barrière et du bulldozer, ou comment la pollution industrielle ne s’arrête pas à coup de seuil de toxicité. A propos de 'Gouverner un monde toxique' de Soraya Boudia et Nathalie Jas », *Zilsel*, 2019
@@ -168,9 +169,9 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Enseignements
 
-* __2022__ : (à venir) "Politiques du vivant", parcours METIS SciencesPo, L2.
+* __2022__ : *Politique du vivant. Le façonnement multi-niveaux de la recherche en sciences de la vie*, parcours interdisciplinaire METIS SciencesPo, L2.
 * __2022__ : Formation Python pour les SHS à l'URFIST de Lyon ; à la plateforme Progédo Aix-Marseille Université.
-* __2022__ : Formation Python pour les SHS pour les doctorants du réseau suisse CUSO
+* __2022__ : Formation Python pour les SHS pour les doctorants du réseau suisse CUSO.
 * __2021__ : [Formations Python pour les SHS à destinations du personnel de recherche, URFIST Lyon](https://sygefor.reseau-urfist.fr/#/training/8972/10567)
 * __2021__ : [Python pour les Sciences Humaines et Sociales, Programme doctoral du DH Center de l'Université de Lausanne](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
 * __2021__ : Sciences et Sociétés, SciencesPo Nancy ; [Formation doctorale Python pour les SHS, UNIL, département des études numériques](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
@@ -189,18 +190,18 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 ## En cours
 
 * Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
-* Organisation workshop [(Re)compositions autour de la médecine de précision en région Nouvelle Aquitaine](https://github.com/emilienschultz/workshop01062022), Bordeaux, juin 2022
-* Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon
-* Collaboration avec la coopérative Datactivist et Huma-Num pour développer des démonstrateurs d'application de traitement de données en SHS
+* [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs)
+* Collaboration avec la coopérative Datactivist et Huma-Num Lab pour développer des démonstrateurs d'application de traitement de données en SHS
 * Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
 * Membre du comité de rédaction de la revue Zilsel
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
-* Obtention d'un projet Région Nouvelle Aquitaine sur les parcours de soin vers la médecine de précision (avec Pascal Ragouet et Daniela Boaventura)
 * Séminaires de formation sur la programmation Python pour les SHS
 * Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, IJERPH, Cancérôpole)
 
 ## Passées
 
+* Organisation workshop [(Re)compositions autour de la médecine de précision en région Nouvelle Aquitaine](https://github.com/emilienschultz/workshop01062022), Bordeaux, juin 2022
+* Obtention d'un projet Région Nouvelle Aquitaine sur les parcours de soin vers la médecine de précision (avec Pascal Ragouet et Daniela Boaventura)
 * Coordinateur du bureau du réseau *Sciences et Technologies en Société* (RT29) de l’Association Française de Sociologie (2019-2021)
 * Membre du bureau du réseau RT29 (2012-2021) 
 * Coordination de dossiers éthiques pour des projets de recherche
