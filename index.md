@@ -198,7 +198,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Membre du comité de rédaction de la revue Zilsel
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
 * Séminaires de formation sur la programmation Python pour les SHS
-* Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Cancérôpole)
+* Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole)
 
 ## Passées
 
