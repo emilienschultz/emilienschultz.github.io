@@ -192,7 +192,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 ## En cours
 
 * Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
-* [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs)
+* [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs) - les vidéos des séances [ICI](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
 * Collaboration avec la coopérative Datactivist et Huma-Num Lab pour développer des démonstrateurs d'application de traitement de données en SHS
 * Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
 * Membre du comité de rédaction de la revue Zilsel
