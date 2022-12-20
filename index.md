@@ -124,6 +124,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf) 
 
 ## Autres publications
+* Partitipation au rapport *Littératie en Santé en France*, SESSTIM et Santé Publique France, à paraître.
 * [Enquête SLAVACO Vague 3 - SESSTIM : Vaccination des enfants, intentions de vaccination contre le Covid et usage de l’application Tousanticovid, *Note de l'Observatoire Régional de Santé PACA*, 2022.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague3.pdf)
 * [Enquête SLAVACO Vague 2 : passe sanitaire, obligation vaccinale et rappels, *Note de l'Observatoire Régional de Santé PACA*, 2021.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague2.pdf)
 * Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? » (abstract), *Revue d’épidémiologie et de santé publique*, 2019.
@@ -131,6 +132,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Communications
 
+* [« Projet TRACTRUST : réflexions sur l’accès et la pérennité des données médiatiques pour l’étude des controverses publiques en santé », Journée actions en santé publique et COVID-19 de l'ISSPAM, Marseille, décembre 2020.](https://www.univ-amu.fr/system/files/2022-12/ISSPAM-2ejourn%C3%A9e-COVID-programme%20et%20tables%20rondes_2.pdf)
 * [« Des notebooks Jupyter pour les SHS : Pourquoi ? Comment ? Pour quel résultat ? Et ensuite ? », Séminaire Coulisses du Code - Python pour les SHS, octobre 2022.](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/NotebooksSHS20102022.pdf)
 *  [« La médecine est-elle un objet de la sociologie des sciences ? Esquisses de cartographie », Journées d'étude du réseau de sociologie des sciences et des techniques RT29, Aubervillier, octobre 2022.](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/SCHULTZRT29%2011102022.pdf)
 *  « Les débats autour de l’(hydroxy)chloroquine sur les réseaux sociaux : regards croisés entre France et Cameroun », Colloque international francophone multisite de l’AMADES - *Anthropologie & Covid-19 États, expériences et incertitudes en temps de pandémie*, Marseille, juin 2022.
