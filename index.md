@@ -84,6 +84,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Publications interdisciplinaires et médicales
 
+* [Breyton M., Schultz E., Ben Smith A., Rouquette A., Mancini J., « Information Overload in the Context of COVID-19 Pandemic: A Repeated Cross-sectional Study », Patient Education and Counseling, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0738399123000526?via%3Dihub)
 * [Schultz É., Mignot L., Ward J.,  Boaventura Silva Bomfim D., Chabannon C. and Mancini J., « Public perceptions of the association between drug effectiveness and drug novelty in France during the COVID-19 pandemic », Therapies, 2022](https://hal.archives-ouvertes.fr/halshs-03448961)
 * Baldini C., Charton E., Schultz E., ..., Besle S., « Access to early-phase clinical trials in older patients with cancer in France: the EGALICAN-2 study », ESMO Open, 2022.
 * Schultz É, Touzani R., Mancini J., Ward JK, « From contact tracing to COVID-19 pass holder; the tortured journey of the French TousAntiCovid contact tracing app. », Public Health, 2022
