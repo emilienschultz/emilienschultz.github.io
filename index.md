@@ -4,15 +4,20 @@
 
 # Chercheur en sociologie
 
+Chercheur en sociologie, [postdoctorant au médialab (SciencesPo)](https://medialab.sciencespo.fr/equipe/emilien-schultz/) dans le projet TRACTRUST et chercheur associé au SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+
 *researcher in sociology of science, science policy, health innovation and data analysis*
 
-Chercheur en sociologie, [postdoctorant au médialab (SciencesPo)](https://medialab.sciencespo.fr/equipe/emilien-schultz/) et chercheur associé au [SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille](https://sesstim.univ-amu.fr/user/1235/), dans le projet TRACTRUST.
+Mes thématiques de recherche portent sur : 
+- la production des savoirs scientifiques et médicaux, notamment autour de la recherche clinique
+- la perception publique de la science et de la médecine
+- les dynamiques d'innovation en santé et les politiques de recherche
+- la programmation scientifique et l'analyse de données
+- les enjeux de santé publique autour des réseaux sociaux
 
-Mes travaux portent sur la relation __science/politique/santé__ et les __méthodes d'analyse__ des données. 
+Actuellement co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 
-Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
-
-Me contacter : *emilien.schultz [AT] sciencespo.fr*
+Me contacter : *emilien.schultz [AT] sciencespo.fr*.
 
 
 # Formation
