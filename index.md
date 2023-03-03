@@ -201,18 +201,17 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 # Activités scientifiques
 
 ## En cours
-
-* Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
-* [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs) - les vidéos des séances [ICI](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
-* Collaboration avec la coopérative Datactivist et Huma-Num Lab pour développer des démonstrateurs d'application de traitement de données en SHS
-* Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
 * Membre du comité de rédaction de la revue Zilsel
+* Review Editor on the Editorial Board of Digital Public Health (specialty section of Frontiers in Public Health, Frontiers in ICT, Frontiers in ICT and Frontiers in Computer Science)
+* Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
-* Séminaires de formation sur la programmation Python pour les SHS
-* Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole)
+* [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs) - les vidéos des séances [ICI](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
+* * Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole)
 
 ## Passées
 
+* Collaboration avec la coopérative Datactivist et Huma-Num Lab pour développer des démonstrateurs d'application de traitement de données en SHS
+* Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
 * Organisation workshop [(Re)compositions autour de la médecine de précision en région Nouvelle Aquitaine](https://github.com/emilienschultz/workshop01062022), Bordeaux, juin 2022
 * Obtention d'un projet Région Nouvelle Aquitaine sur les parcours de soin vers la médecine de précision (avec Pascal Ragouet et Daniela Boaventura)
 * Coordinateur du bureau du réseau *Sciences et Technologies en Société* (RT29) de l’Association Française de Sociologie (2019-2021)
