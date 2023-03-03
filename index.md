@@ -204,9 +204,9 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Membre du comité de rédaction de la revue Zilsel
 * Review Editor on the Editorial Board of Digital Public Health (specialty section of Frontiers in Public Health, Frontiers in ICT, Frontiers in ICT and Frontiers in Computer Science)
 * Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
+* Reviewer : Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
 * [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs) - les vidéos des séances [ICI](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
-* * Evaluation d'articles et de projets (Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole)
 
 ## Passées
 
