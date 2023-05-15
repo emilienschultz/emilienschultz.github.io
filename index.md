@@ -2,7 +2,7 @@
   <img width="200" src="/emilien.png">
 </p>
 
-# Chercheur en sociologie
+# Chercheur en sciences sociales
 
 Chercheur en sociologie, [postdoctorant au médialab (SciencesPo)](https://medialab.sciencespo.fr/equipe/emilien-schultz/) dans le projet TRACTRUST et chercheur associé au SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
 
@@ -14,8 +14,6 @@ Mes thématiques de recherche portent sur :
 - les dynamiques d'innovation en santé et les politiques de recherche
 - la programmation scientifique et l'analyse de données
 - les enjeux de santé publique autour des réseaux sociaux
-
-Actuellement co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 
 Me contacter : *emilien.schultz [AT] sciencespo.fr*.
 
@@ -66,6 +64,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
  
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
+* [avec Julien Mancini et Jeremy K. Ward, « What does the French public consider to be a conflict of interest for medical researchers? », Social Science and Medicine, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0277953623002083)
 * [avec Johan Giry, « L’Agence nationale de la recherche, fer de lance d’une internationalisation néolibérale de la politique scientifique française (2004-2010) ? », Revue Internationale des Politiques Comparées, 2022.](https://www.cairn.info/revue-internationale-de-politique-comparee-2022-1-page-173.htm)
 * [avec Marie-Alix Molinié, « Entre évaluation technologique et conseil scientifique : la trajectoire de l’Office Parlementaire d’Évaluation des Choix Scientifiques et Technologiques », Les Cahiers d'Histoire du CNAM, 2022.](https://technique-societe.cnam.fr/actualite-de-jean-jacques-salomon-1322730.kjsp)
 * [avec Jeremy K. Ward, « Public perceptions of scientific advice: toward a science savvy public culture? », Public Health, 2021](https://www.sciencedirect.com/science/article/pii/S0033350621000652?dgcid=author)
@@ -139,6 +138,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Communications
 
+* How to convince French HSS researchers to use Jupyter Notebooks ? Autopsy of a missed attempt, JupyterCon 2023, Paris.
 * [avec Léo Mignot « Programmation scientifique en Python pour construire et analyser des réseaux. Application aux données Twitter », Atelier Méthode Centre Emile Dukheim, Bordeaux, février 2023.](https://www.centreemiledurkheim.fr/evenements/atelier-methodes/atelier-methodes-8/)
 * [« The under-equipped social scientist ? Why do we need more dedicated, flexible and documented Python libraries for social sciences. », FOSSDEM 2023, Bruxelles.](https://fosdem.org/2023/schedule/event/openresearch_under_equipped_social_scientist/)
 * [« Projet TRACTRUST : réflexions sur l’accès et la pérennité des données médiatiques pour l’étude des controverses publiques en santé », Journée actions en santé publique et COVID-19 de l'ISSPAM, Marseille, décembre 2020.](https://www.univ-amu.fr/system/files/2022-12/ISSPAM-2ejourn%C3%A9e-COVID-programme%20et%20tables%20rondes_2.pdf)
@@ -202,8 +202,6 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 # Activités scientifiques
 
 ## En cours
-* Membre du comité de rédaction de la revue Zilsel
-* Review Editor on the Editorial Board of Digital Public Health (specialty section of Frontiers in Public Health, Frontiers in ICT, Frontiers in ICT and Frontiers in Computer Science)
 * Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 * Reviewer : Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
@@ -211,6 +209,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Passées
 
+* Membre du comité de rédaction de la revue Zilsel
 * Collaboration avec la coopérative Datactivist et Huma-Num Lab pour développer des démonstrateurs d'application de traitement de données en SHS
 * Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
 * Organisation workshop [(Re)compositions autour de la médecine de précision en région Nouvelle Aquitaine](https://github.com/emilienschultz/workshop01062022), Bordeaux, juin 2022
