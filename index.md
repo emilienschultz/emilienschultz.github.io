@@ -202,6 +202,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 # Activités scientifiques
 
 ## En cours
+* Comité de rédaction de la revue [Programming Historian](https://programminghistorian.org/fr/)
 * Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 * Reviewer : Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
@@ -209,6 +210,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Passées
 
+* Journée d'étude ["Entre dés/mésinformation et savoirs spécialisés : les “expertises” sur les médias sociaux pendant l’épidémie de COVID-19"](https://medialab.sciencespo.fr/actu/entre-desmesinformation-et-savoirs-specialises-les-expertises-sur-les-medias-sociaux-pendant-lepidemie-de-covid/), 25 mai 2023, Sciences Po, Médialab
 * Membre du comité de rédaction de la revue Zilsel
 * Collaboration avec la coopérative Datactivist et Huma-Num Lab pour développer des démonstrateurs d'application de traitement de données en SHS
 * Participation au projet dirigé par Pascal Ragouet et Léo Mignot sur l'intelligence artificielle en cancérologie (financement INCa)
