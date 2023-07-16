@@ -4,7 +4,7 @@
 
 # Chercheur en sciences sociales
 
-Chercheur en sociologie, [postdoctorant au médialab (SciencesPo)](https://medialab.sciencespo.fr/equipe/emilien-schultz/) dans le projet TRACTRUST et chercheur associé au SESSTIM dans l'équipe CANBIOS (AMU/INSERM/IRD) à Marseille.
+Chercheur postdoctorant en sciences sociales – actuellement au laboratoire SESSTIM dans l’équipe CANBIOS (AMU/INSERM/IRD) à Marseille. Mon activité se concentre sur l’articulation entre les méthodes numériques pour les sciences sociales et des questionnements liés à la santé et à la science.
 
 *researcher in sociology of science, science policy, health innovation and data analysis*
 
