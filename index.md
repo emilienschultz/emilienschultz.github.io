@@ -202,7 +202,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 # Activités scientifiques
 
 ## En cours
-* Comité de rédaction de la revue [Programming Historian](https://programminghistorian.org/fr/)
+* Rédacteur à [Programming Historian](https://programminghistorian.org/fr/)
 * Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 * Reviewer : Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
