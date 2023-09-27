@@ -102,7 +102,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## Chapitres de livre
 
-* *(accepté, à paraître)* avec Daniela Boaventura et Solenne Carof, « L'économie morale des promesses de la médecine de précision en oncologie pédiatrique », *Attentes, promesses et technosciences*, Presses de l’Université de Montréal, 2022.
+* [avec Daniela Boaventura et Solenne Carof, « L'économie morale des promesses de la médecine de précision en oncologie pédiatrique », *Attentes, promesses et technosciences*, Presses de l’Université de Montréal, 2022.](https://pum.umontreal.ca/catalogue/attentes_et_promesses_technoscientifiques)
 * [avec Sylvain Besle, Solenne Carof et Céline Gabarro « La participation des associations de parents dans la lutte contre les cancers pédiatriques », *Sociologie des pratiques coopératives et participatives en santé*, 2022.](https://www.irdes.fr/recherche/2022/ouvrage-008-pratiques-de-cooperation-en-sante-regards-sociologiques.html)
 * Patrick Peretti-Watel, Caroline Alleaume, Odile Launay, Jocelyn Raude, Émilien Schultz, Jeremy Ward, Pierre Verger, « Une crise politisée ? Masques, chloroquine & vaccin », *Huis-clos avec un virus*, dir. Patrick Peretti-Watel, Presses de l’Université de Montréal, 2022.
 * avec Sylvain Besle, « L’institutionnalisation progressive des essais précoces en France », *Les politiques de lutte contre le cancer en France*, Patrick Castel, Pierre-André Juven, Audrey Vezian (dir.), 2019
