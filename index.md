@@ -77,7 +77,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Sociologie de la santé et de l'innovation biomédicale
 
-* avec Daniela Boaventura, « Les essais cliniques, des instruments de recherche comme les autres ? Étude d’un essai clinique de médecine de précision en France », *Zilsel*, à paraître.
+* [avec Daniela Boaventura, « Les essais cliniques, des instruments de recherche comme les autres ? Étude d’un essai clinique de médecine de précision en France », *Zilsel*, 2023.](https://www.cairn.info/revue-zilsel-2022-2-page-69.htm)
 * [avec Léo Mignot, « Les innovations d’intelligence artificielle en radiologie à l’épreuve des régulations du système de santé », *Réseaux*, 2022](https://www.cairn.info/revue-reseaux-2022-2-page-65.htm).
 * [avec Thibaud Pombet et Solenne Carof, « Entre catégorie médicale et expérience située : quelle(s) spécificité(s) des cancers pédiatriques ?
  », Introduction au numéro thématique, Anthropologie & Santé, 2021.](https://journals.openedition.org/anthropologiesante/10500)
