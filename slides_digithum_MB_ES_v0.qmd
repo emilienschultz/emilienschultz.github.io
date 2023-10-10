@@ -16,23 +16,21 @@ format:
 :::: {.columns}
 
 ::: {.column width="50%"}
-**Matthias**
+**Émilien**
 
-- D'abord en biophysique
-- Puis entre les mondes
-- Et développeur
-    - open source
-    - open science
-
+-   D'abord en physique
+-   Puis en sociologie
+-   Finalement en sciences sociales computationnelles
 :::
 
 ::: {.column width="50%"}
-**Émilien**
+**Matthias**
 
-- D'abord en physique
-- Puis en sociologie
-- Finalement en sciences sociales computationnelles
-
+-   (Bio)physique expérimental
+-   Migration Progressives vers développeur
+    -   open source
+    -   open science
+:::
 :::
 
 ::::
@@ -85,6 +83,8 @@ Schindler D, Bensmann F, Dietze S, et al. (2022) The role of software in science
 
 ## Pourquoi programmer en recherche ?
 
+La programation est un outil.
+
 - Différentes raisons d'utilisation :
     - flexibilité de la commande à l'ordinateur
     - formalisation des traitements
@@ -92,15 +92,13 @@ Schindler D, Bensmann F, Dietze S, et al. (2022) The role of software in science
 - Favorise :
     - travail collaboratif
     - transfert de pratiques
-    - reproductibilité
+    - reproductibilité / historique / confiance.
 
 ## Vers la reproductibilité {.smaller}
 
 ![](img/reproductibility.png){fig-align="center" fig-alt="10.5281/zenodo.4421040"}
 
-Juliette Taka, & Nicolas M. Thiéry. (2018). Publishing reproducible logbooks explainer comic strip. Zenodo. https://doi.org/10.5281/zenodo.4421040
-
-
+Juliette Taka, & Nicolas M. Thiéry. (2018). Publishing reproducible logbooks explainer comic strip. Zenodo. <https://doi.org/10.5281/zenodo.4421040>
 
 ## Particularité des SHS ?
 
@@ -138,12 +136,14 @@ Juliette Taka, & Nicolas M. Thiéry. (2018). Publishing reproducible logbooks ex
 - Langage de haut niveau
     - Interprété ; Ouvert
     - Pédagogique ; Versatil
-- Qui a évolué : actuellement 3.11
+- Qui evolue : actuellement 3.12[^1]
 - Le plus utilisé en traitement des données
     - [Sondage stackoverflow](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies) ; [TIOBE index](https://www.tiobe.com/tiobe-index/)
     - Lingua franca, "language of first resort"
 
-## "Scientific Python", quand l'open source rencontre l'open science {.smaller}
+[^1]: Release anuelle.
+
+## "Scientific Python", quand l'Open Source rencontre l'Open Science {.smaller}
 
 
 :::: {.columns}
@@ -166,6 +166,7 @@ Juliette Taka, & Nicolas M. Thiéry. (2018). Publishing reproducible logbooks ex
 
 ![](img/python-stack.png)
 
+Derivative from Jake Van Der Plas JSM 2016
 
 ## Un outil "normal" de la science
 
@@ -194,10 +195,18 @@ Entre les mondes scientifiques et de l'ingénierie des données.
 
 ::: {.column width="50%"}
 
-- Des langages qui ont évolués
-    - et qui évoluent (ex de la [modification du Global Interpreter Lock (GIL)](https://superfastpython.com/gil-removed-from-python/))
-- Une montée progressive en abstraction (cas du projet Jupyter)
-- Pas de "meilleur langage dans l'absolu"
+-   Des langages qui ont évolués
+    <!--
+    I would not mention the GIL removal the article you mention says:
+    But, “didn’t you know that the GIL was removed” is somewhere between “misunderstanding” and “dead wrong“.
+    -->
+    -   et qui évoluent (ex de la [modification du Global Interpreter
+        Lock
+        (GIL)](https://superfastpython.com/gil-removed-from-python/))
+    - [Gradual Typing](https://peps.python.org/pep-0484/)
+    - Async Await and [Painting restoration](https://twitter.com/YunZhengHu/status/1400694739452796930)
+-   Une montée progressive en abstraction (cas du projet Jupyter)
+-   Pas de "meilleur langage dans l'absolu"
 
 :::
 
@@ -315,6 +324,16 @@ scripttoutfait.run()
 - Software Carpentry et [Data Carpentry](https://datacarpentry.org/)
 - [Cours Python pour la data science de Lino Galiana (INSEE)](https://pythonds.linogaliana.fr/)
 - [Manuel Python pour les SHS, 2021](https://pyshs.fr/)
+
+
+## Contribuer "upstream"
+
+Souvent plus simple qu'on imagine.
+
+- Poser des questions
+- Tester les futures version de bibliothèque.
+- Modifier le code avec peer review,
+- Intéractions avec des spécialiste du domaine.
 
 
 # Pour ouvrir...
