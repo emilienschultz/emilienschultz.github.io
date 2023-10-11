@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="slides_digithum_MB_ES_v0_files/libs/clipboard/clipboard.min.js"></script>
-<script src="slides_digithum_MB_ES_v0_files/libs/quarto-html/tabby.min.js"></script>
-<script src="slides_digithum_MB_ES_v0_files/libs/quarto-html/popper.min.js"></script>
-<script src="slides_digithum_MB_ES_v0_files/libs/quarto-html/tippy.umd.min.js"></script>
-<link href="slides_digithum_MB_ES_v0_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="slides_digithum_MB_ES_v0_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="slides_digithum_MB_ES_v0_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="slides_digithum_MB_ES_v0_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<script src="digithum2023_files/libs/clipboard/clipboard.min.js"></script>
+<script src="digithum2023_files/libs/quarto-html/tabby.min.js"></script>
+<script src="digithum2023_files/libs/quarto-html/popper.min.js"></script>
+<script src="digithum2023_files/libs/quarto-html/tippy.umd.min.js"></script>
+<link href="digithum2023_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="digithum2023_files/libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="digithum2023_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="digithum2023_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.3.450">
 
   <meta name="author" content="Émilien Schultz &amp; Matthias Bussonnier">
@@ -15,8 +15,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="slides_digithum_MB_ES_v0_files/libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="slides_digithum_MB_ES_v0_files/libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="digithum2023_files/libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="digithum2023_files/libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -95,11 +95,11 @@
     code span.vs { color: #20794d; } /* VerbatimString */
     code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
-  <link rel="stylesheet" href="slides_digithum_MB_ES_v0_files/libs/revealjs/dist/theme/quarto.css">
-  <link href="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link rel="stylesheet" href="digithum2023_files/libs/revealjs/dist/theme/quarto.css">
+  <link href="digithum2023_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="digithum2023_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="digithum2023_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="digithum2023_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
   .callout {
@@ -409,8 +409,10 @@
 <p><strong>Émilien</strong></p>
 <ul>
 <li>D’abord en physique</li>
-<li>Puis en sociologie</li>
-<li>Finalement en sciences sociales computationnelles</li>
+<li>Puis en sociologie
+<ul>
+<li>sciences sociales computationnelles</li>
+</ul></li>
 </ul>
 </div><div class="column" style="width:50%;">
 <p><strong>Matthias</strong></p>
@@ -430,11 +432,11 @@
 <h2>Répondre à 3 questions</h2>
 <br><br>
 <center>
-<ol type="1">
+<ul>
 <li>Pourquoi programmer ?</li>
 <li>Pourquoi Python ?</li>
 <li>Comment s’y mettre ?</li>
-</ol>
+</ul>
 </center>
 </section>
 <section>
@@ -448,12 +450,12 @@
 <li>Les ordinateurs sont partout</li>
 <li>Et cela concerne aussi les SHS
 <ul>
-<li>“<em>l’historien de demain sera programmeur ou ne sera plus</em>” (Emmanuel Le Roy Ladurie, 1968)</li>
+<li><a href="https://journals.openedition.org/framespa/14370">“<em>l’historien de demain sera programmeur ou ne sera plus</em>” (Emmanuel Le Roy Ladurie, 1968)</a></li>
 </ul></li>
 <li>Cependant, variation des usages
 <ul>
 <li><a href="https://journals.openedition.org/signata/3136">“<em>De la poussière à la lumière bleue</em>” de Caroline Muller et Frédéric Clavert, Signata, 2021</a></li>
-<li><a href="https://hal-lara.archives-ouvertes.fr/hal-03545512">“Pratiques et usages des outils numériques dans les communautés scientifiques en France”, Mariannig Le Béchec et al., 2020</a></li>
+<li><a href="https://hal-lara.archives-ouvertes.fr/hal-03545512">“Pratiques et usages des outils numériques”, Mariannig Le Béchec et al., 2020</a></li>
 </ul></li>
 </ul>
 </section>
@@ -475,19 +477,18 @@
 </section>
 <section id="pourquoi-programmer-en-recherche" class="slide level2">
 <h2>Pourquoi programmer en recherche ?</h2>
-<p>La programation est un outil.</p>
 <ul>
 <li>Différentes raisons d’utilisation :
 <ul>
-<li>flexibilité de la commande à l’ordinateur</li>
-<li>formalisation des traitements</li>
-<li>construire des outils</li>
+<li>adapter</li>
+<li>formaliser</li>
+<li>instrumenter</li>
 </ul></li>
 <li>Favorise :
 <ul>
 <li>travail collaboratif</li>
 <li>transfert de pratiques</li>
-<li>reproductibilité / historique / confiance.</li>
+<li>reproductibilité</li>
 </ul></li>
 </ul>
 </section>
@@ -498,6 +499,7 @@
 </section>
 <section id="particularité-des-shs" class="slide level2">
 <h2>Particularité des SHS ?</h2>
+<p><br></p>
 <div class="columns">
 <div class="column" style="width:45%;">
 <ul>
@@ -526,13 +528,15 @@
 <section id="un-peu-dhistoire" class="slide level2">
 <h2>Un peu d’histoire</h2>
 <ul>
-<li>Langage “glue” développé par Guido von Rossum en 1988</li>
+<li>Langage “glue” développé par Guido von Rossum en 1988
+<ul>
+<li><a href="https://inference-review.com/article/the-origins-of-python">à partir du langage ABC</a></li>
+</ul></li>
 <li>Langage de haut niveau
 <ul>
-<li>Interprété ; Ouvert</li>
-<li>Pédagogique ; Versatil</li>
-</ul></li>
+<li>Interprété ; Ouvert ; Pédagogique ; Versatil</li>
 <li>Qui évolue : actuellement 3.12<sup>1</sup></li>
+</ul></li>
 <li>Le plus utilisé en traitement des données
 <ul>
 <li><a href="https://survey.stackoverflow.co/2023/#technology-most-popular-technologies">Sondage stackoverflow</a> ; <a href="https://www.tiobe.com/tiobe-index/">TIOBE index</a></li>
@@ -540,8 +544,10 @@
 </ul></li>
 </ul>
 <aside><ol class="aside-footnotes"><li id="fn1"><p>Release anuelle.</p></li></ol></aside></section>
-<section id="scientific-python-quand-lopen-source-rencontre-lopen-science" class="slide level2 smaller">
-<h2>“Scientific Python”, quand l’Open Source rencontre l’Open Science</h2>
+<section id="scientific-python" class="slide level2 smaller">
+<h2><em>Scientific Python</em></h2>
+<p><br></p>
+<p>Quand l’<em>Open Source</em> rencontre l’<em>Open Science</em></p>
 <div class="columns">
 <div class="column" style="width:50%;">
 <p>«&nbsp;<em>The reason why I wanted to do it in Python is because I was using a proprietary tool for my work, but I wanted to do my scientific work with open tools. I think of science’s mission as opening the black box of nature. It’s a bit nonsensical to do that with tools that we are not allowed to open and understand, including proprietary software</em>&nbsp;» (Fernando Perez, <a href="https://data.berkeley.edu/news/project-jupyter-celebrates-20-years-fernando-perez-reflects-how-it-started-open-sciences">As Project Jupyter celebrates 20 years…</a> 2021)</p>
@@ -559,13 +565,14 @@
 <h2>Un outil “normal” de la science</h2>
 
 <img data-src="img/scipy_article.png" class="r-stretch quarto-figure-center"></section>
-<section id="une-frontière-déchanges-entre-recherche-et-open-source" class="slide level2">
-<h2>Une frontière d’échanges entre recherche et open source</h2>
+<section id="une-frontière-déchanges" class="slide level2">
+<h2>Une frontière d’échanges</h2>
+<p>Entre recherche et open source</p>
 <ul>
-<li>Petite histoire de IPython
+<li>Petite histoire de <em>IPython</em>
 <ul>
 <li>Des outils dédiés à l’interactivité de la recherche</li>
-<li>A la base des notebooks Jupyter</li>
+<li>À la base des notebooks Jupyter</li>
 </ul></li>
 <li>Vue par un de ses acteurs (M.B.)
 <ul>
@@ -591,7 +598,7 @@
 <ul>
 <li>Par exemple les normes de <em>gradual typing</em></li>
 </ul></li>
-<li>Une montée progressive en abstraction
+<li>Abstraction progressive
 <ul>
 <li>Cas du projet Jupyter</li>
 </ul></li>
@@ -609,17 +616,17 @@
 </section>
 <section id="pas-un-unique-usage" class="slide level2">
 <h2>Pas un unique usage</h2>
+<p><br></p>
 <ul>
 <li>De la culture numérique des possibles</li>
 <li>… à sa mise en oeuvre</li>
 </ul>
 <p>Importance d’avoir une idée de ce qu’il est possible de faire</p>
-
-<aside><div>
-<p>“Certains disent « Il faut coder », d’autres rétorquent « Il faut décoder » (Cardon, 2019)”</p>
-</div></aside></section>
-<section id="usages-orienté-mimétisme" class="slide level2">
-<h2>Usages “orienté mimétisme”</h2>
+<p><br></p>
+<p><em>“Certains disent « Il faut coder », d’autres rétorquent « Il faut décoder »”</em> (Cardon, 2019)</p>
+</section>
+<section id="usages-orientés-mimétisme" class="slide level2">
+<h2>Usages “orientés mimétisme”</h2>
 <ul>
 <li>Suivre un tutoriel
 <ul>
@@ -634,8 +641,8 @@
 <div class="sourceCode" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> scripttoutfait</span>
 <span id="cb1-2"><a href="#cb1-2"></a>scripttoutfait.run()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
-<section id="usages-orienté-scripts" class="slide level2">
-<h2>Usages “orienté scripts”</h2>
+<section id="usages-orientés-scripts" class="slide level2">
+<h2>Usages “orientés scripts”</h2>
 <ul>
 <li>Manipuler des données
 <ul>
@@ -652,8 +659,8 @@
 <li>Script dans logiciel QGIS ou dans OpenRefine</li>
 </ul>
 </section>
-<section id="usages-orienté-statistiques" class="slide level2">
-<h2>Usages “orienté statistiques”</h2>
+<section id="usages-orientés-statistiques" class="slide level2">
+<h2>Usages “orientés statistiques”</h2>
 <ul>
 <li>Construire un graphique
 <ul>
@@ -670,8 +677,8 @@
 <li>Parallélisation des calculs sur des serveurs</li>
 </ul>
 </section>
-<section id="usages-orienté-automatisation" class="slide level2">
-<h2>Usages “orienté automatisation”</h2>
+<section id="usages-orientés-automatisation" class="slide level2">
+<h2>Usages “orientés automatisation”</h2>
 <ul>
 <li>Systématiser des collectes API
 <ul>
@@ -688,8 +695,8 @@
 <li>Déployer un site web en Python</li>
 </ul>
 </section>
-<section id="usages-ia" class="slide level2">
-<h2>Usages “IA”</h2>
+<section id="usages-orientés-ia" class="slide level2">
+<h2>Usages “orientés IA”</h2>
 <ul>
 <li>Manipuler les modèles
 <ul>
@@ -702,8 +709,8 @@
 <li>Fine tuner des LLM</li>
 </ul>
 </section>
-<section id="usages-orientés-construction-dinstruments" class="slide level2">
-<h2>Usages “orientés construction d’instruments”</h2>
+<section id="usages-orientés-instrumentation" class="slide level2">
+<h2>Usages “orientés instrumentation”</h2>
 <ul>
 <li>Généraliser son code en fonction réxécutable</li>
 <li>Publier une bibliothèque</li>
@@ -724,6 +731,7 @@
 </section>
 <section id="tous-programmeurs" class="slide level2">
 <h2>Tous programmeurs ?</h2>
+<p><br></p>
 <ul>
 <li>Non
 <ul>
@@ -748,22 +756,24 @@
 </section>
 <section id="les-ressources" class="slide level2">
 <h2>Les ressources</h2>
+<p><br></p>
 <ul>
 <li>Priorité aux pairs &amp; collègue de bureau</li>
 <li><a href="https://programminghistorian.org/">Programming Historian</a></li>
-<li>Software Carpentry et <a href="https://datacarpentry.org/">Data Carpentry</a></li>
+<li><a href="https://software-carpentry.org/">Software Carpentry</a> et <a href="https://datacarpentry.org/">Data Carpentry</a></li>
 <li><a href="https://pythonds.linogaliana.fr/">Cours Python pour la data science de Lino Galiana (INSEE)</a></li>
 <li><a href="https://pyshs.fr/">Manuel Python pour les SHS, 2021</a></li>
 </ul>
 </section>
 <section id="contribuer-upstream" class="slide level2">
 <h2>Contribuer “upstream”</h2>
-<p>Souvent plus simple qu’on imagine.</p>
+<p><br></p>
+<p>Souvent plus simple qu’on imagine :</p>
 <ul>
 <li>Poser des questions</li>
-<li>Tester les futures version de bibliothèque.</li>
-<li>Modifier le code avec peer review,</li>
-<li>Intéractions avec des spécialiste du domaine.</li>
+<li>Tester les futures versions de bibliothèque.</li>
+<li>Modifier le code avec <em>peer review</em></li>
+<li>Interactions avec des spécialiste du domaine</li>
 </ul>
 </section></section>
 <section>
@@ -771,8 +781,11 @@
 <h1>Pour ouvrir…</h1>
 
 </section>
-<section id="python-comme-un-avatar-de-la-programmation-scientifique" class="slide level2">
-<h2>Python comme un avatar de la programmation scientifique</h2>
+<section id="un-langage-parmi-dautres" class="slide level2">
+<h2>Un langage parmi d’autres</h2>
+<p><br></p>
+<p>Python comme un avatar de la programmation scientifique</p>
+<p><br></p>
 <ul>
 <li>Mieux comprendre les complémentarités entre langages</li>
 <li>Développer un vocabulaire commun pour en/se parler</li>
@@ -780,6 +793,7 @@
 </section>
 <section id="le-futur-llm-code" class="slide level2">
 <h2>Le futur : LLM &amp; code</h2>
+<p><br></p>
 <ul>
 <li>Génération facilité de code</li>
 <li>Passage du NL au code accéléré</li>
@@ -790,7 +804,7 @@
 </ul></li>
 </ul>
 <div class="footer footer-default">
-<p>Digit_Hum 2023</p>
+
 </div>
 </section></section>
 
@@ -798,19 +812,19 @@
   </div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/dist/reveal.js"></script>
+  <script src="digithum2023_files/libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/search/search.js"></script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="slides_digithum_MB_ES_v0_files/libs/revealjs/plugin/math/math.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/search/search.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="digithum2023_files/libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>

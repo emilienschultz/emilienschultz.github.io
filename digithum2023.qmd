@@ -5,7 +5,6 @@ author: "Émilien Schultz & Matthias Bussonnier"
 format: 
     revealjs:
         incremental: false
-        footer: "Digit_Hum 2023"
         slide-number: true
 
 ---
@@ -20,7 +19,7 @@ format:
 
 -   D'abord en physique
 -   Puis en sociologie
--   Finalement en sciences sociales computationnelles
+    - sciences sociales computationnelles
 :::
 
 ::: {.column width="50%"}
@@ -42,9 +41,9 @@ format:
 
 <br><br>
 <center>
-1. Pourquoi programmer ?
-2. Pourquoi Python ?
-3. Comment s'y mettre ?
+- Pourquoi programmer ?
+- Pourquoi Python ?
+- Comment s'y mettre ?
 </center>
 
 # Programmer ?
@@ -53,10 +52,10 @@ format:
 
 - Les ordinateurs sont partout
 - Et cela concerne aussi les SHS
-    - "*l’historien de demain sera programmeur ou ne sera plus*" (Emmanuel Le Roy Ladurie, 1968)
+    - ["*l’historien de demain sera programmeur ou ne sera plus*" (Emmanuel Le Roy Ladurie, 1968)](https://journals.openedition.org/framespa/14370)
 - Cependant, variation des usages
     - ["*De la poussière à la lumière bleue*" de Caroline Muller et Frédéric Clavert, Signata, 2021](https://journals.openedition.org/signata/3136)
-    - ["Pratiques et usages des outils numériques dans les communautés scientifiques en France", Mariannig Le Béchec et al., 2020](https://hal-lara.archives-ouvertes.fr/hal-03545512) 
+    - ["Pratiques et usages des outils numériques", Mariannig Le Béchec et al., 2020](https://hal-lara.archives-ouvertes.fr/hal-03545512) 
 
 
 ## La "programmation scientifique"
@@ -69,7 +68,7 @@ format:
 « in contrast to software engineering, there is no externally speciﬁed goal or design target. Instead, the user explores and discovers their goal as they gain understanding from iteratively executing the code and thinking about the results and their data. » (Granger et Perez, 2021) 
 :::
 
-## R, Python et les autres ...
+## R, Python et les autres ... 
 
 Font partie des instruments de la recherche
 
@@ -83,16 +82,14 @@ Schindler D, Bensmann F, Dietze S, et al. (2022) The role of software in science
 
 ## Pourquoi programmer en recherche ?
 
-La programation est un outil.
-
 - Différentes raisons d'utilisation :
-    - flexibilité de la commande à l'ordinateur
-    - formalisation des traitements
-    - construire des outils
+    - adapter
+    - formaliser
+    - instrumenter
 - Favorise :
     - travail collaboratif
     - transfert de pratiques
-    - reproductibilité / historique / confiance.
+    - reproductibilité
 
 ## Vers la reproductibilité {.smaller}
 
@@ -102,6 +99,7 @@ Juliette Taka, & Nicolas M. Thiéry. (2018). Publishing reproducible logbooks ex
 
 ## Particularité des SHS ?
 
+<br>
 
 :::: {.columns}
 
@@ -133,18 +131,21 @@ Juliette Taka, & Nicolas M. Thiéry. (2018). Publishing reproducible logbooks ex
 ## Un peu d'histoire
 
 - Langage "glue" développé par Guido von Rossum en 1988
+    - [à partir du langage ABC](https://inference-review.com/article/the-origins-of-python)
 - Langage de haut niveau
-    - Interprété ; Ouvert
-    - Pédagogique ; Versatil
-- Qui évolue : actuellement 3.12[^1]
+    - Interprété ; Ouvert ; Pédagogique ; Versatil
+    - Qui évolue : actuellement 3.12[^1]
 - Le plus utilisé en traitement des données
     - [Sondage stackoverflow](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies) ; [TIOBE index](https://www.tiobe.com/tiobe-index/)
     - Lingua franca, "language of first resort"
 
 [^1]: Release anuelle.
 
-## "Scientific Python", quand l'Open Source rencontre l'Open Science {.smaller}
+## *Scientific Python*  {.smaller}
 
+<br>
+
+Quand l'*Open Source* rencontre l'*Open Science*
 
 :::: {.columns}
 
@@ -174,11 +175,13 @@ Inspiré du schéma de Jake Van Der Plas, JSM 2016.
 ![](img/scipy_article.png){fig-align="center"}
 
 
-## Une frontière d'échanges entre recherche et open source
+## Une frontière d'échanges
 
-- Petite histoire de IPython
+Entre recherche et open source
+
+- Petite histoire de *IPython*
     - Des outils dédiés à l'interactivité de la recherche
-    - A la base des notebooks Jupyter
+    - À la base des notebooks Jupyter
 - Vue par un de ses acteurs (M.B.)
     - Des outils par et pour les chercheurs
 
@@ -200,7 +203,7 @@ Entre les mondes scientifiques et de l'ingénierie des données.
     - Par exemple les *f-string*
 -   et qui évoluent :
     - Par exemple les normes de *gradual typing*
--   Une montée progressive en abstraction
+-   Abstraction progressive
     - Cas du projet Jupyter
 -   Pas de "meilleur langage dans l'absolu"
 
@@ -218,16 +221,18 @@ Entre les mondes scientifiques et de l'ingénierie des données.
 
 ## Pas un unique usage
 
+<br>
+
 - De la culture numérique des possibles
 - ... à sa mise en oeuvre
 
 Importance d'avoir une idée de ce qu'il est possible de faire
 
-::: aside
-"Certains disent « Il faut coder », d’autres rétorquent « Il faut décoder » (Cardon, 2019)"
-:::
+<br>
 
-## Usages "orienté mimétisme"
+*"Certains disent « Il faut coder », d’autres rétorquent « Il faut décoder »"* (Cardon, 2019)
+
+## Usages "orientés mimétisme"
 
 
 
@@ -242,7 +247,7 @@ import scripttoutfait
 scripttoutfait.run()
 ```
 
-## Usages "orienté scripts"
+## Usages "orientés scripts"
 
 - Manipuler des données
     - Découper un fichier trop volumineux
@@ -254,7 +259,7 @@ scripttoutfait.run()
 - Script dans logiciel
     QGIS ou dans OpenRefine
 
-## Usages "orienté statistiques"
+## Usages "orientés statistiques"
 
 - Construire un graphique
     - Juxtaposition de plusieurs éléments temporels
@@ -264,7 +269,7 @@ scripttoutfait.run()
     - Bibliothèques de TAL pour analyse thématique
 - Parallélisation des calculs sur des serveurs
 
-## Usages "orienté automatisation"
+## Usages "orientés automatisation"
 
 - Systématiser des collectes API
     - OCR Gallica, forums, ...
@@ -275,7 +280,7 @@ scripttoutfait.run()
 - Déployer un site web en Python
     
 
-## Usages "IA"
+## Usages "orientés IA"
 
 
 - Manipuler les modèles
@@ -284,7 +289,7 @@ scripttoutfait.run()
     - Détection d'entitées nommées à façon
 - Fine tuner des LLM
 
-## Usages "orientés construction d'instruments"
+## Usages "orientés instrumentation"
 
 - Généraliser son code en fonction réxécutable
 - Publier une bibliothèque
@@ -299,6 +304,8 @@ scripttoutfait.run()
 # S'y mettre ?
 
 ## Tous programmeurs ?
+
+<br>
 
 - Non
     - Et pas nécessairement en Python
@@ -316,31 +323,43 @@ scripttoutfait.run()
 
 ## Les ressources
 
+<br>
+
 - Priorité aux pairs & collègue de bureau
 - [Programming Historian](https://programminghistorian.org/)
-- Software Carpentry et [Data Carpentry](https://datacarpentry.org/)
+- [Software Carpentry](https://software-carpentry.org/) et [Data Carpentry](https://datacarpentry.org/)
 - [Cours Python pour la data science de Lino Galiana (INSEE)](https://pythonds.linogaliana.fr/)
 - [Manuel Python pour les SHS, 2021](https://pyshs.fr/)
 
 
 ## Contribuer "upstream"
 
-Souvent plus simple qu'on imagine.
+<br>
+
+Souvent plus simple qu'on imagine :
 
 - Poser des questions
-- Tester les futures version de bibliothèque.
-- Modifier le code avec peer review,
-- Intéractions avec des spécialiste du domaine.
+- Tester les futures versions de bibliothèque.
+- Modifier le code avec *peer review*
+- Interactions avec des spécialiste du domaine
 
 
 # Pour ouvrir...
 
-## Python comme un avatar de la programmation scientifique
+## Un langage parmi d'autres
+
+<br>
+
+Python comme un avatar de la programmation scientifique
+
+<br>
 
 - Mieux comprendre les complémentarités entre langages
 - Développer un vocabulaire commun pour en/se parler
 
 ## Le futur : LLM & code
+
+<br>
 
 - Génération facilité de code
 - Passage du NL au code accéléré
