@@ -139,7 +139,8 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Communications
 
-* How to convince French HSS researchers to use Jupyter Notebooks ? Autopsy of a missed attempt, JupyterCon 2023, Paris.
+* [avec Matthias Bussonier « Python et SHS : quelle place pour la programmation scientifique », journée Digit_Hum, ENS, octobre 2023.](http://eschultz.fr/digithum2023.html)
+* [How to convince French HSS researchers to use Jupyter Notebooks ? Autopsy of a missed attempt, JupyterCon 2023, Paris.](https://www.youtube.com/watch?v=G63bEFSEUco&ab_channel=JupyterCon)
 * [avec Léo Mignot « Programmation scientifique en Python pour construire et analyser des réseaux. Application aux données Twitter », Atelier Méthode Centre Emile Dukheim, Bordeaux, février 2023.](https://www.centreemiledurkheim.fr/evenements/atelier-methodes/atelier-methodes-8/)
 * [« The under-equipped social scientist ? Why do we need more dedicated, flexible and documented Python libraries for social sciences. », FOSSDEM 2023, Bruxelles.](https://fosdem.org/2023/schedule/event/openresearch_under_equipped_social_scientist/)
 * [« Projet TRACTRUST : réflexions sur l’accès et la pérennité des données médiatiques pour l’étude des controverses publiques en santé », Journée actions en santé publique et COVID-19 de l'ISSPAM, Marseille, décembre 2020.](https://www.univ-amu.fr/system/files/2022-12/ISSPAM-2ejourn%C3%A9e-COVID-programme%20et%20tables%20rondes_2.pdf)
