@@ -185,9 +185,10 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Enseignements
 
+* __2023__ : *Sciences sociales computationnelles - analyse de données Twitter*, Centrale Marseille, M2.
 * __2023__ : [*Social network analyses for public health issues*, AMU, M2 Santé Publique](https://sesstim.univ-amu.fr/en/page/descriptive-sheet-tu-phs-snet)
 * __2022__ : *Politique du vivant. Le façonnement multi-niveaux de la recherche en sciences de la vie*, parcours interdisciplinaire METIS SciencesPo, L2.
-* __2022__ : Formation Python pour les SHS à l'URFIST de Lyon ; à la plateforme Progédo Aix-Marseille Université.
+* __2023-2021__ : Formation Python pour les SHS à l'URFIST de Lyon ; à la plateforme Progédo Aix-Marseille Université.
 * __2022__ : Formation Python pour les SHS pour les doctorants du réseau suisse CUSO.
 * __2021__ : [Formations Python pour les SHS à destinations du personnel de recherche, URFIST Lyon](https://sygefor.reseau-urfist.fr/#/training/8972/10567)
 * __2021__ : [Python pour les Sciences Humaines et Sociales, Programme doctoral du DH Center de l'Université de Lausanne](https://www.unil.ch/doc-digitalstudies/fr/home/menuinst/activites-du-programme/pyshs---python-pour-les-shs.html)
