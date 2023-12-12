@@ -64,7 +64,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
  
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
-* avec Jeremy K. Ward et Laëtitia Atlani-Duault, « Public perception of scientific advisory bodies: the case of France’s Covid-19 Scientific Council », Science and Public Policy, accepté, à paraître.
+* [avec Jeremy K. Ward et Laëtitia Atlani-Duault, « Public perception of scientific advisory bodies: the case of France’s Covid-19 Scientific Council », Science and Public Policy, 2023](https://academic.oup.com/spp/advance-article-abstract/doi/10.1093/scipol/scad067/7330826).
 * [avec Julien Mancini et Jeremy K. Ward, « What does the French public consider to be a conflict of interest for medical researchers? », Social Science and Medicine, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0277953623002083)
 * [avec Johan Giry, « L’Agence nationale de la recherche, fer de lance d’une internationalisation néolibérale de la politique scientifique française (2004-2010) ? », Revue Internationale des Politiques Comparées, 2022.](https://www.cairn.info/revue-internationale-de-politique-comparee-2022-1-page-173.htm)
 * [avec Marie-Alix Molinié, « Entre évaluation technologique et conseil scientifique : la trajectoire de l’Office Parlementaire d’Évaluation des Choix Scientifiques et Technologiques », Les Cahiers d'Histoire du CNAM, 2022.](https://technique-societe.cnam.fr/actualite-de-jean-jacques-salomon-1322730.kjsp)
