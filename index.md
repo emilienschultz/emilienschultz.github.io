@@ -129,6 +129,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Workingpaper
 
+* [« Du laboratoire à Jupyter : La trajectoire d'un instrument logiciel libre de la science ouverte »](https://uphf.hal.science/U1252/hal-04316428v1)
 * [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf) 
 
 ## Autres publications
