@@ -214,6 +214,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Passées
 
+* Journée d'étude Digit_Hum avec Marie-Laure Massot et Agnès Tricoche ["Manipuler des données en SHS : R, Python et les carnets interactifs"](https://digithum.huma-num.fr/atelier/2023/)
 * Journée d'étude ["Entre dés/mésinformation et savoirs spécialisés : les “expertises” sur les médias sociaux pendant l’épidémie de COVID-19"](https://medialab.sciencespo.fr/actu/entre-desmesinformation-et-savoirs-specialises-les-expertises-sur-les-medias-sociaux-pendant-lepidemie-de-covid/), 25 mai 2023, Sciences Po, Médialab
 * Membre du comité de rédaction de la revue Zilsel
 * Collaboration avec la coopérative Datactivist et Huma-Num Lab pour développer des démonstrateurs d'application de traitement de données en SHS
