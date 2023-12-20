@@ -2,18 +2,11 @@
   <img width="200" src="/emilien.png">
 </p>
 
-# Chercheur en sciences sociales
+# Ingénieur de recherche data/sciences sociales computationnelles
 
-Chercheur postdoctorant en sciences sociales – actuellement au laboratoire SESSTIM dans l’équipe CANBIOS (AMU/INSERM/IRD) à Marseille. Mon activité se concentre sur l’articulation entre les méthodes numériques pour les sciences sociales et des questionnements liés à la santé et à la science.
+Ingénieur de recherche au CREST - ENSAE. Entre sciences sociales et outils numériques, mon activité est tournée vers le traitement des données, les sciences sociales computationnelles et l'appui au logiciel scientifique. Ex. GEMASS - CEPED - SESSTIM - médialab
 
-*researcher in sociology of science, science policy, health innovation and data analysis*
-
-Mes thématiques de recherche portent sur : 
-- la production des savoirs scientifiques et médicaux, notamment autour de la recherche clinique
-- la perception publique de la science et de la médecine
-- les dynamiques d'innovation en santé et les politiques de recherche
-- la programmation scientifique et l'analyse de données
-- les enjeux de santé publique autour des réseaux sociaux
+*Reseach engineer at CREST - ENSA. Between social sciences and digital tools, my activity focus on data analysis, computational social sciences and scientific software.*
 
 Me contacter : *emilien.schultz [AT] sciencespo.fr*.
 
@@ -30,6 +23,7 @@ Me contacter : *emilien.schultz [AT] sciencespo.fr*.
 
 # Parcours professionnel
 
+* __2023-....__ : Ingénieur de recherche data au CREST - INSAE
 * __2023-2022__ : Chercheur postdoctorant à Sciences Po, Médialab (projet TRACTRUST, avec Guillaume Lachenal et Daniel Benamouzig)
 * __2022-2020__ : Chercheur postdoctorant à l'IRD, laboratoire CEPED (projet TRACTRUST, avec Laëtitia Atlani-Duault)
 * __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
@@ -89,6 +83,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Publications interdisciplinaires et médicales
 
+* Émilien Schultz, Jeremy Ward, Rajae Touzani, Julien Mancini, « Entre santé et science : littératie en santé et perception de la recherche médicale », Santé Publique, *en cours d'évaluation*.
 * [Rajae Touzani, Élodie Dembele, Émilien Schultz ..., Julien Mancini « The French General Population’s Perception of New Information and Communication Technologies for Medical Consultations: National Survey », J Med Internet Res 2023;25:e45822](https://www.jmir.org/2023/1/e45822/)
 * [Breyton M., Schultz E., Ben Smith A., Rouquette A., Mancini J., « Information Overload in the Context of COVID-19 Pandemic: A Repeated Cross-sectional Study », Patient Education and Counseling, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0738399123000526?via%3Dihub)
 * [Touzani, R., Schultz, E., Vandentorren, S., Arwidson, P., Guillemin, F., Bouhnik, A.D., Rouquette, A. and Mancini, J., 2023. Digital contact tracing during the COVID-19 pandemic in France: associated factors and reasons for non-use. International Journal of Medical Informatics, p.104994.](https://www.sciencedirect.com/science/article/pii/S1386505623000114?casa_token=dliDMhOY02sAAAAA:r7b3wYXUluizwON-_tXjbDS4yYyGOuahp7_E00ZZGxVFi2z00aWvHO_4r5P9dWN6PaX6W5V8mnmN)
@@ -133,6 +128,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * [avec Josquin Debaz, Yves Gingras, Jérôme Lamy, Arnaud Saint-Martin et Jeremy K. Ward, « Academic debates and the complexity of the hydroxychloroquine controversy », 2020]( https://ost.openum.ca/files/sites/132/2020/10/Note_2020-04_vf.pdf) 
 
 ## Autres publications
+
 * Partitipation au rapport *Littératie en Santé en France*, SESSTIM et Santé Publique France, à paraître.
 * [Enquête SLAVACO Vague 3 - SESSTIM : Vaccination des enfants, intentions de vaccination contre le Covid et usage de l’application Tousanticovid, *Note de l'Observatoire Régional de Santé PACA*, 2022.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague3.pdf)
 * [Enquête SLAVACO Vague 2 : passe sanitaire, obligation vaccinale et rappels, *Note de l'Observatoire Régional de Santé PACA*, 2021.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague2.pdf)
@@ -207,14 +203,15 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 # Activités scientifiques
 
 ## En cours
+
 * Rédacteur à [Programming Historian](https://programminghistorian.org/fr/)
-* Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 * Reviewer : Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole
-* Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
-* [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs) - les vidéos des séances [ICI](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
 
 ## Passées
 
+* [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs) - les vidéos des séances [ICI](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
+* Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
+* Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
 * Journée d'étude Digit_Hum avec Marie-Laure Massot et Agnès Tricoche ["Manipuler des données en SHS : R, Python et les carnets interactifs"](https://digithum.huma-num.fr/atelier/2023/)
 * Journée d'étude ["Entre dés/mésinformation et savoirs spécialisés : les “expertises” sur les médias sociaux pendant l’épidémie de COVID-19"](https://medialab.sciencespo.fr/actu/entre-desmesinformation-et-savoirs-specialises-les-expertises-sur-les-medias-sociaux-pendant-lepidemie-de-covid/), 25 mai 2023, Sciences Po, Médialab
 * Membre du comité de rédaction de la revue Zilsel
