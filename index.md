@@ -137,6 +137,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Communications
 
+* [« From the lab to Jupyter : a brief history of computational notebooks from a STS perspective », FOSDEM 2024](https://fosdem.org/2024/schedule/event/fosdem-2024-3190-from-the-lab-to-jupyter-a-brief-history-of-computational-notebooks-from-a-sts-perspective/)
 * [avec Matthias Bussonier « Python et SHS : quelle place pour la programmation scientifique », journée Digit_Hum, ENS, octobre 2023.](http://eschultz.fr/digithum2023.html)
 * [How to convince French HSS researchers to use Jupyter Notebooks ? Autopsy of a missed attempt, JupyterCon 2023, Paris.](https://www.youtube.com/watch?v=G63bEFSEUco&ab_channel=JupyterCon)
 * [avec Léo Mignot « Programmation scientifique en Python pour construire et analyser des réseaux. Application aux données Twitter », Atelier Méthode Centre Emile Dukheim, Bordeaux, février 2023.](https://www.centreemiledurkheim.fr/evenements/atelier-methodes/atelier-methodes-8/)
