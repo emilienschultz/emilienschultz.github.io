@@ -55,6 +55,12 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 * [Numéro spécial avec Michel Dubois de la Revue d'Histoire de la Recherche Contemporaine sur l'Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques, 2019](https://journals.openedition.org/hrc/3078).
 
 ## Articles avec comité de lecture
+
+### Soumission en cours
+
+* avec Jérôme Lamy et Laëtitia Atlani-Duault, « Le Conseil scientifique COVID 19 ou l’exposition publique du régime régulatoire », en révision
+* avec Guillaume Lachenal, Simon Guillouet et Emma Cape,  « Le scepticisme 'désorganisé' des médias sociaux : le #lancetgate ou la publication scientifique à l'épreuve de Twitter (2020) », en révision
+* avec Mariannig Le Béchec, Célya Gruson-Daniel et Clémence Lascombes « Notebook and Open science : toward more FAIR play », en révision
  
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
@@ -129,7 +135,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Autres publications
 
-* Partitipation au rapport *Littératie en Santé en France*, SESSTIM et Santé Publique France, à paraître.
+* [Participation au rapport *Littératie en Santé en France*, SESSTIM et Santé Publique France, 2024](https://www.santepubliquefrance.fr/docs/litteratie-en-sante-rapport-de-l-etude-health-literacy-survey-france-2020-2021)
 * [Enquête SLAVACO Vague 3 - SESSTIM : Vaccination des enfants, intentions de vaccination contre le Covid et usage de l’application Tousanticovid, *Note de l'Observatoire Régional de Santé PACA*, 2022.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague3.pdf)
 * [Enquête SLAVACO Vague 2 : passe sanitaire, obligation vaccinale et rappels, *Note de l'Observatoire Régional de Santé PACA*, 2021.](http://www.orspaca.org/sites/default/files/Note-SLAVACO-Vague2.pdf)
 * Sylvain Besle et Solenn Carof, « Soigner par la recherche : comment penser l’égalité d’accès aux essais précoces en cancérologie ? » (abstract), *Revue d’épidémiologie et de santé publique*, 2019.
