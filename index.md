@@ -8,7 +8,7 @@ Ingénieur de recherche au CREST/[CSS@ISP](https://www.css.cnrs.fr/team/). Entre
 
 *Reseach engineer at CREST. Between social sciences and digital tools, my activity focus on data analysis, computational social sciences and scientific software.*
 
-Me contacter : *emilien.schultz [AT] sciencespo.fr*.
+Me contacter : *emilien.schultz [AT] ensae.fr*.
 
 
 # Formation
@@ -89,7 +89,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Publications interdisciplinaires et médicales
 
-* Émilien Schultz, Jeremy Ward, Rajae Touzani, Julien Mancini, « Entre santé et science : littératie en santé et perception de la recherche médicale », Santé Publique, *en cours d'évaluation*.
+* [Émilien Schultz, Jeremy Ward, Rajae Touzani, Julien Mancini, « Entre santé et science : littératie en santé et perception de la recherche médicale », Santé Publique, 2024.](https://www.cairn.info/revue-sante-publique-2024-3-page-103.htm)
 * [Rajae Touzani, Élodie Dembele, Émilien Schultz ..., Julien Mancini « The French General Population’s Perception of New Information and Communication Technologies for Medical Consultations: National Survey », J Med Internet Res 2023;25:e45822](https://www.jmir.org/2023/1/e45822/)
 * [Breyton M., Schultz E., Ben Smith A., Rouquette A., Mancini J., « Information Overload in the Context of COVID-19 Pandemic: A Repeated Cross-sectional Study », Patient Education and Counseling, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0738399123000526?via%3Dihub)
 * [Touzani, R., Schultz, E., Vandentorren, S., Arwidson, P., Guillemin, F., Bouhnik, A.D., Rouquette, A. and Mancini, J., 2023. Digital contact tracing during the COVID-19 pandemic in France: associated factors and reasons for non-use. International Journal of Medical Informatics, p.104994.](https://www.sciencedirect.com/science/article/pii/S1386505623000114?casa_token=dliDMhOY02sAAAAA:r7b3wYXUluizwON-_tXjbDS4yYyGOuahp7_E00ZZGxVFi2z00aWvHO_4r5P9dWN6PaX6W5V8mnmN)
