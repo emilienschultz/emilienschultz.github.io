@@ -13,17 +13,6 @@ Ingénieur de recherche au CREST/[CSS@ISP](https://www.css.cnrs.fr/team/). Entre
 
 Me contacter : *emilien.schultz [AT] ensae.fr*.
 
-
-# Formation
-
-* __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
->  [Construire une économie de la recherche sur projets. L'installation de l’Agence Nationale de la Recherche en France et ses conséquences dans les domaines de la génomique végétale et de la chimie durable](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/these-vf.pdf)
-* __2011__ : Master Logique Philosophie Histoire et Sociologie des Sciences (LOPHISS) à Paris VII
-* __2011-2007__ : Formation en physique appliquée à l'ENS de Cachan (EEA)
-    * 2011 : Diplôme de l'ENS de Cachan
-    * 2010 : Agrégation de physique appliquée - préparation à l'ENS de Cachan
-* Classes préparatoire en physique et science de l'ingénieur à Strasbourg
-
 # Parcours professionnel
 
 * __2023-....__ : Ingénieur de recherche data au CREST - INSAE
@@ -34,6 +23,16 @@ Me contacter : *emilien.schultz [AT] ensae.fr*.
 * __2016__ : Recherche post-doctorale financée par Gustave Roussy dans le cadre du projet Egalican (SIRIC SOCRATE IGR)
 * __2016-2014__ : Attaché Temporaire d'Enseignement et de Recherche à Université Paris Sorbonne
 * __2014-2011__ : Contract doctoral Université Paris Sorbonne
+
+# Formation
+
+* __2016-2011__ : Thèse de sociologie des sciences à Paris Sorbonne sous la direction de Michel Dubois
+>  [Construire une économie de la recherche sur projets. L'installation de l’Agence Nationale de la Recherche en France et ses conséquences dans les domaines de la génomique végétale et de la chimie durable](https://github.com/emilienschultz/emilienschultz.github.io/blob/master/documents/these-vf.pdf)
+* __2011__ : Master Logique Philosophie Histoire et Sociologie des Sciences (LOPHISS) à Paris VII
+* __2011-2007__ : Formation en physique appliquée à l'ENS de Cachan (EEA)
+    * 2011 : Diplôme de l'ENS de Cachan
+    * 2010 : Agrégation de physique appliquée - préparation à l'ENS de Cachan
+* Classes préparatoire en physique et science de l'ingénieur à Strasbourg
 
 # Publications
 
@@ -59,14 +58,13 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## Articles avec comité de lecture
 
-### Soumission en cours
+### Scientific programming
 
-* avec Jérôme Lamy et Laëtitia Atlani-Duault, « Le Conseil scientifique COVID 19 ou l’exposition publique du régime régulatoire », en révision
-* avec Guillaume Lachenal, Simon Guillouet et Emma Cape,  « Le scepticisme 'désorganisé' des médias sociaux : le #lancetgate ou la publication scientifique à l'épreuve de Twitter (2020) », en révision
-* avec Mariannig Le Béchec, Célya Gruson-Daniel et Clémence Lascombes « Notebook and Open science : toward more FAIR play », en révision
- 
+* [avec Mariannig Le Béchec, Célya Gruson-Daniel et Clémence Lascombes « Notebook and Open science : toward more FAIR play »](https://hal.science/hal-04549986v2/document), Journal of Digital Mining and Digital Humanities, 2024, to be published.
+
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
+* avec Guillaume Lachenal, Simon Guillouet et Emma Cape,  « Le scepticisme 'désorganisé' des médias sociaux : le #lancetgate ou la publication scientifique à l'épreuve de Twitter (2020) », Réseaux, 2024, to be published.
 * [avec Jeremy K. Ward et Laëtitia Atlani-Duault, « Public perception of scientific advisory bodies: the case of France’s Covid-19 Scientific Council », Science and Public Policy, 2023](https://academic.oup.com/spp/advance-article-abstract/doi/10.1093/scipol/scad067/7330826).
 * [avec Julien Mancini et Jeremy K. Ward, « What does the French public consider to be a conflict of interest for medical researchers? », Social Science and Medicine, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0277953623002083)
 * [avec Johan Giry, « L’Agence nationale de la recherche, fer de lance d’une internationalisation néolibérale de la politique scientifique française (2004-2010) ? », Revue Internationale des Politiques Comparées, 2022.](https://www.cairn.info/revue-internationale-de-politique-comparee-2022-1-page-173.htm)
@@ -92,8 +90,9 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Publications interdisciplinaires et médicales
 
-* [Émilien Schultz, Jeremy Ward, Rajae Touzani, Julien Mancini, « Entre santé et science : littératie en santé et perception de la recherche médicale », Santé Publique, 2024.](https://www.cairn.info/revue-sante-publique-2024-3-page-103.htm)
-* [Rajae Touzani, Élodie Dembele, Émilien Schultz ..., Julien Mancini « The French General Population’s Perception of New Information and Communication Technologies for Medical Consultations: National Survey », J Med Internet Res 2023;25:e45822](https://www.jmir.org/2023/1/e45822/)
+* [Rajae T., Rouquettes A., Schultz É., ..., Mancini J., « Psychometric validation of the French version of two scales measuring general (HLS19-Q12) and navigational (HLS19-NAV) health literacy using the Rasch model », BMC Public Health, 2024.](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20504-x)
+* [Schultz É., Ward J., Touzani R., Mancini J., « Entre santé et science : littératie en santé et perception de la recherche médicale », Santé Publique, 2024.](https://www.cairn.info/revue-sante-publique-2024-3-page-103.htm)
+* [Rajae T, Dembele É., Schultz É., ..., Julien Mancini « The French General Population’s Perception of New Information and Communication Technologies for Medical Consultations: National Survey », J Med Internet Res 2023;25:e45822](https://www.jmir.org/2023/1/e45822/)
 * [Breyton M., Schultz E., Ben Smith A., Rouquette A., Mancini J., « Information Overload in the Context of COVID-19 Pandemic: A Repeated Cross-sectional Study », Patient Education and Counseling, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0738399123000526?via%3Dihub)
 * [Touzani, R., Schultz, E., Vandentorren, S., Arwidson, P., Guillemin, F., Bouhnik, A.D., Rouquette, A. and Mancini, J., 2023. Digital contact tracing during the COVID-19 pandemic in France: associated factors and reasons for non-use. International Journal of Medical Informatics, p.104994.](https://www.sciencedirect.com/science/article/pii/S1386505623000114?casa_token=dliDMhOY02sAAAAA:r7b3wYXUluizwON-_tXjbDS4yYyGOuahp7_E00ZZGxVFi2z00aWvHO_4r5P9dWN6PaX6W5V8mnmN)
 * [Schultz É., Mignot L., Ward J.,  Boaventura Silva Bomfim D., Chabannon C. and Mancini J., « Public perceptions of the association between drug effectiveness and drug novelty in France during the COVID-19 pandemic », Therapies, 2022](https://hal.archives-ouvertes.fr/halshs-03448961)
@@ -192,6 +191,8 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 # Enseignements
 
+* __2024__ : *Phd Digital Skills at CREST*, GENES.
+* __2024__ : *Méthodes d'enquêtes et traitement de données*, Exploration des savoirs, SciencesPo.
 * __2023__ : *Sciences sociales computationnelles - analyse de données Twitter*, Centrale Marseille, M2.
 * __2023__ : [*Social network analyses for public health issues*, AMU, M2 Santé Publique](https://sesstim.univ-amu.fr/en/page/descriptive-sheet-tu-phs-snet)
 * __2022__ : *Politique du vivant. Le façonnement multi-niveaux de la recherche en sciences de la vie*, parcours interdisciplinaire METIS SciencesPo, L2.
@@ -251,3 +252,10 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Réanalyse d'enquête dans une perspective de science ouverte, *Cabinet Inno3*, 2022.
 * Analyse de données de CommonData, 2016
 * Passation d'enquête par questionnaire et développement d'interface Conseil Régional Val-de-Marne, 2014.
+
+# Compétences numériques / Digital Skills
+
+* Python (scientific programming and developement)
+* Notions of R, Matlab
+* Front : React / Javascript / HTML
+* Notions of PHP, C
