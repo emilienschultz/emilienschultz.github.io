@@ -7,9 +7,13 @@
 # Ingénieur de recherche sciences sociales computationnelles
 *Research engineer in computational social sciences*
 
-Ingénieur de recherche au CREST/[CSS@ISP](https://www.css.cnrs.fr/team/). Entre sciences sociales et outils numériques, mon activité est tournée vers le traitement des données, les sciences sociales computationnelles et l'appui au logiciel scientifique. Ex. GEMASS - CEPED - SESSTIM - médialab
+Ingénieur de recherche au CREST/[CSS@ISP](https://www.css.cnrs.fr/team/). Entre sciences sociales et outils numériques : traitement des données, les sciences sociales computationnelles et appui au logiciel scientifique.
 
 *Reseach engineer at CREST. Between social sciences and digital tools, my activity focus on data analysis, computational social sciences and scientific software.*
+
+Currently, developping and maintaing [Active Tigger in Python](https://github.com/emilienschultz/activetigger/) @ CREST with É. Ollion & J. Boaelaert
+
+Ex. GEMASS - CEPED - SESSTIM - médialab
 
 Me contacter : *emilien.schultz [AT] ensae.fr*.
 
