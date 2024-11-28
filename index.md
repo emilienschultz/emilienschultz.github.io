@@ -2,7 +2,10 @@
   <img width="200" src="/emilien.png">
 </p>
 
-# Ingénieur de recherche data/sciences sociales computationnelles
+<!-- DOC for Jekyll https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll -->
+
+# Ingénieur de recherche sciences sociales computationnelles
+*Research engineer in computational social sciences*
 
 Ingénieur de recherche au CREST/[CSS@ISP](https://www.css.cnrs.fr/team/). Entre sciences sociales et outils numériques, mon activité est tournée vers le traitement des données, les sciences sociales computationnelles et l'appui au logiciel scientifique. Ex. GEMASS - CEPED - SESSTIM - médialab
 
