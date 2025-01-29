@@ -47,7 +47,7 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ## Articles grand public
 
-* avec Léo Mignot, [* Radiologie : pourquoi l’IA n’a (toujours) pas remplacé le médecin*, The Conversation, 2022](https://theconversation.com/radiologie-pourquoi-lia-na-toujours-pas-remplace-le-medecin-185319)
+* avec Léo Mignot, [*Radiologie : pourquoi l’IA n’a (toujours) pas remplacé le médecin*, The Conversation, 2022](https://theconversation.com/radiologie-pourquoi-lia-na-toujours-pas-remplace-le-medecin-185319)
 * avec Antoine Blanchard, [*Les Français et la chloroquine, une défaite de la culture scientifique ?*, The Conversation, 2021](https://theconversation.com/les-francais-et-la-chloroquine-une-defaite-de-la-culture-scientifique-174482)
 * [*Les clefs pour comprendre ces graphes qui ont fleuri lors l’épidémie de Covid-19*, The Conversation, 2021](https://theconversation.com/les-clefs-pour-comprendre-ces-graphes-qui-ont-fleuri-lors-lepidemie-de-covid-19-165185)
 
@@ -61,11 +61,11 @@ La bibliothèque Python associée pour le traitement statistique [pyshs](https:/
 
 ### Scientific programming
 
-* [avec Mariannig Le Béchec, Célya Gruson-Daniel et Clémence Lascombes « Notebook and Open science : toward more FAIR play »](https://hal.science/hal-04549986v2/document), Journal of Digital Mining and Digital Humanities, 2024, to be published.
+* [avec Mariannig Le Béchec, Célya Gruson-Daniel et Clémence Lascombes « Notebook and Open science : toward more FAIR play », Journal of Digital Mining and Digital Humanities, 2024.](https://jdmdh.episciences.org/14949)
 
 ### Sociologie des sciences, des politiques scientifiques et de l'expertise
 
-* avec Guillaume Lachenal, Simon Guillouet et Emma Cape,  « Le scepticisme 'désorganisé' des médias sociaux : le #lancetgate ou la publication scientifique à l'épreuve de Twitter (2020) », Réseaux, 2024, to be published.
+* [avec Guillaume Lachenal, Simon Guillouet et Emma Cape,  « Le scepticisme 'désorganisé' des médias sociaux : le #lancetgate ou la publication scientifique à l'épreuve de Twitter (2020) », Réseaux, 2024.](https://shs.cairn.info/revue-reseaux-2024-4-page-269)
 * [avec Jeremy K. Ward et Laëtitia Atlani-Duault, « Public perception of scientific advisory bodies: the case of France’s Covid-19 Scientific Council », Science and Public Policy, 2023](https://academic.oup.com/spp/advance-article-abstract/doi/10.1093/scipol/scad067/7330826).
 * [avec Julien Mancini et Jeremy K. Ward, « What does the French public consider to be a conflict of interest for medical researchers? », Social Science and Medicine, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0277953623002083)
 * [avec Johan Giry, « L’Agence nationale de la recherche, fer de lance d’une internationalisation néolibérale de la politique scientifique française (2004-2010) ? », Revue Internationale des Politiques Comparées, 2022.](https://www.cairn.info/revue-internationale-de-politique-comparee-2022-1-page-173.htm)
