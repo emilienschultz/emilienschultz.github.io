@@ -218,7 +218,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 ## En cours
 
 * Rédacteur à [Programming Historian](https://programminghistorian.org/fr/)
-* Reviewer : Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole
+* Reviewer : STHV, Zilsel, Anthropologie & Santé, Revue d'Anthropologie des Connaissances, Digital Health, IJERPH, Frontiers in Sociology, Journal of Innovation Economics and Management, Cancérôpole
 
 ## Passées
 
