@@ -16,7 +16,7 @@ Contact me : *emilien.schultz [AT] ensae.fr*.
 
 # Parcours professionnel
 
-* __2023-....__ : Ingénieur de recherche data au CREST - INSAE
+* __2023-....__ : Ingénieur de recherche data au CREST - ENSAE
 * __2023-2022__ : Chercheur postdoctorant à Sciences Po, Médialab (projet TRACTRUST, avec Guillaume Lachenal et Daniel Benamouzig)
 * __2022-2020__ : Chercheur postdoctorant à l'IRD, laboratoire CEPED (projet TRACTRUST, avec Laëtitia Atlani-Duault)
 * __2020-2017__ : Chercheur en sociologie à l'Institut Gustave Roussy (programme SINCRO - SIRIC SOCRATE)
@@ -129,6 +129,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Posters récents
 
+* avec Axel Morin, ..., Étienne Ollion, [« Active Tigger. Intuitive and collaborative text annotation tool for open science research », AI and Society – Exploring Inequality in the Digital Age, May 2025, Mannheim, Germany. 2025](https://cnrs.hal.science/hal-05097192)
 * avec Capucine Baldini, Sylvain Besle et al., [« Access to early clinical trials in older patients in France: an analysis of the EGALICAN 2 study »](https://www.geriatriconcology.net/article/S1879-4068(19)31300-1/fulltext), *International Society of Geriatric Oncology*, Genève, 2019
 
 ## Workingpaper
