@@ -222,6 +222,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 
 ## Passées
 
+* [Participation à l'organisation de  Summer Institute in Computational Social Science SICSS 2025 Paris](https://sicss.io/2025/paris)
 * [Animation du séminaire Coulisses du Code - Python pour les SHS (CoCoPySHS) avec Mariannig Le Béchec et l'URFIST de Lyon](https://github.com/pyshs/cocopyshs) - les vidéos des séances [ICI](https://www.canal-u.tv/chaines/callisto/les-coulisses-du-code-python-pour-les-shs-cocopyshs)
 * Encadrement d'une thèse en collaboration avec Pascal Ragouet (programme SINCRO)
 * Co-porteur avec Jeremy K. Ward (INSERM, CERMES3) du projet **L’autorité de la médecine scientifique à l’épreuve des controverses sur la recherche clinique (AMèS)** financé par l'Agence Nationale de la Recherche 2022-2025.
