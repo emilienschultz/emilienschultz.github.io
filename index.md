@@ -236,7 +236,7 @@ Comptes-rendus dans la Revue Française de Sociologie, Réseaux, Sociologie du T
 * Coordinateur du bureau du réseau *Sciences et Technologies en Société* (RT29) de l’Association Française de Sociologie (2019-2021)
 * Membre du bureau du réseau RT29 (2012-2021) 
 * Coordination de dossiers éthiques pour des projets de recherche
-* Encadrement de quatre stagiaires depuis 2014
+* Encadrement de stagiaires (5 depuis 2014)
 * Projet ACCE (financement Imagine for Margo, dir. S. Besle)
 * Coordination d’une journée d’étude avec Solenn Carof sur « Mobilisation associatives et cancers pédiatriques », décembre 2018
 * participation au projet interdisciplinaire PALIM (Patrimoines Alimentaires) financé par Sorbonne Université 2015
